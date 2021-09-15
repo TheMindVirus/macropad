@@ -38,7 +38,17 @@ I chose the one which doesn't come with any keys or backplate because I wanted t
 still be able to see the RP2040 that's powering the board on the underside.
 
 ![IMG_4912.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4912.JPG)
+
+Here is a close-up of the back of the printed circuit board (PCB). The central chip with the Raspberry \
+logo is the RP2040 that runs your custom programs. Beside it is some flash memory and a ribbon cable \
+for the display. A small speaker plays tones of a frequency you specify in either Arduino or CircuitPython.
+
 ![IMG_4923.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4923.JPG)
+
+The CherryMX keys are colour-coded to help identify their characteristics. The footprint of the Macropad \
+allows you to choose between Cherry, Kailh and Gateron. Some switches are weighted differently from others \
+and some emit a specific texture of sound when typed on repeatedly. There are also many more switch manufacturers.
+
 ![IMG_4924.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4924.JPG)
 ![IMG_4931.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4931.JPG)
 ![IMG_4933.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4933.JPG)
