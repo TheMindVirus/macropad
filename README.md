@@ -9,7 +9,8 @@ The Macropad by Adafruit Industries is a Shortcut Keyboard powered by a Raspberr
 The same microcontroller powers the Raspberry Pi Pico RP2040 and the usage is much the same.
 
 There are a wide range of CherryMX keyboard switches to choose from, each with different \
-tactile feel and clickyness. How do you know which keys you like before buying a whole keyboard? \
+tactile feel and clickyness. How do you know which keys you like before buying a whole keyboard?
+
 This project will see you assembling your own Macropad with a selection of different CherryMX keys \
 and keycaps to find what fits your preference and needs.
 
@@ -129,6 +130,9 @@ and makes a sound on each key press. If however you want to do something differe
 I hope you enjoyed following my project and maybe even have your own Macropad designs and sketches as a result. \
 If you like what you see, please consider clicking the sponsor button at the top of this page while perusing. \
 More content is being created every day by a diverse group of people who are sometimes unappreciated for their work.
+
+Sound Byte: https://github.com/TheMindVirus/macropad/blob/main/soundbyte.wav
+Clickyness: https://github.com/TheMindVirus/macropad/blob/main/clickyness.wav
 
 # Useful Links
 Home: https://github.com/TheMindVirus/macropad/ \
