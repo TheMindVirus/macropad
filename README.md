@@ -74,10 +74,34 @@ the keycaps sturdily in place. The key switches came with a set of rubber insert
 top of each switch (some of which have square boundaries around them). I instead opted for some Blu Tack!
 
 ![IMG_4938.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4938.JPG)
+
+# Assembly
+Carefully, without applying too much pressure, align and attach each CherryMX switch to its slot on the Macropad. \
+The pins are quite fragile and are prone to bending. They need to connect to the board's conductive contacts. \
+No soldering is required, the switches should click into place. I also found a knob cap from an old defunct mixer.
+
 ![IMG_4939.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4939.JPG)
+
+If you're using keycaps that are designed to fit on top of CherryMX switches then you may skip this step. \
+For Lego keycaps you will need to apply a small blob of Blu Tack to the top of each switch axle before \
+gently aligning and attaching each keycap. You're looking for it to hold strongly but not be too obtrusive.
+
 ![IMG_4942.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4942.JPG)
+
+When you have attached your keycaps your Macropad should look something like this. The studs on top of \
+the Lego bricks can give a unique feel to your shortcut keyboard, but some may prefer flatter keycaps. \
+In this case, it is ideal to attach tiles on top of the studs before attaching the keycaps to their switches.
+
 ![IMG_4948.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4948.JPG)
+
+This is what the finished Macropad should look like after attaching all the keycaps each with 4 tiles. \
+You may have spare key switches and keycaps which can be swapped in and out as and when you wish. \
+The next stage is to connect the Macropad to your PC and upload your own custom programs to it.
+
 ![IMG_4949.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4949.JPG)
+
+
+
 ![IMG_4955.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4955.JPG)
 ![IMG_4958.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4958.JPG)
 ![IMG_4960.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4960.JPG)
