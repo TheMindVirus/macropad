@@ -50,9 +50,26 @@ allows you to choose between Cherry, Kailh and Gateron. Some switches are weight
 and some emit a specific texture of sound when typed on repeatedly. There are also many more switch manufacturers.
 
 ![IMG_4924.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4924.JPG)
+
+The key switches are modular and so are the keycaps, allowing for a huge range of possible combinations. \
+Along with the Lego keycaps, I also purchased an assortment of Black Pudding keycaps from Adafruit. \
+The underside of the keys will be lit with GRB NeoPixel Light Emitting Diodes (LEDs) so choose wisely.
+
 ![IMG_4931.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4931.JPG)
+
+A single lead is all that is required to power the device, upload firmware to it and receive key data from it. \
+The back of the Macropad has a USB Type-C connector for all of these purposes. The same reversible cable is used \
+by chargers for mobile phones and a growing ecosystem of accessories, making it somewhat ubiquitous.
+
 ![IMG_4933.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4933.JPG)
+
+If however your PC doesn't have a USB Type-C port available or within a cable's length, you may instead opt for \
+a shorter USB Type-A to Type-C adapter cable, such as the one pictured below. This is ideal if you have a USB Hub \
+on your desk. I will be using this cable with the USB Hub on the back of the Raspberry Pi Official Keyboard. 
+
 ![IMG_4935.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4935.JPG)
+
+
 ![IMG_4938.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4938.JPG)
 ![IMG_4939.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4939.JPG)
 ![IMG_4942.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4942.JPG)
