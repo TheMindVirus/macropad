@@ -131,7 +131,7 @@ I hope you enjoyed following my project and maybe even have your own Macropad de
 If you like what you see, please consider clicking the sponsor button at the top of this page while perusing. \
 More content is being created every day by a diverse group of people who are sometimes unappreciated for their work.
 
-Sound Byte: https://github.com/TheMindVirus/macropad/blob/main/soundbyte.wav
+Sound Byte: https://github.com/TheMindVirus/macropad/blob/main/soundbyte.wav \
 Clickyness: https://github.com/TheMindVirus/macropad/blob/main/clickyness.wav
 
 # Useful Links
