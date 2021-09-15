@@ -2,6 +2,8 @@
 
 Adafruit Macropad RP2040 with Transparent Lego Keycaps and Sounds from The Crystal Maze
 
+![IMG_4955.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4955.JPG)
+
 # Introduction
 The Macropad by Adafruit Industries is a Shortcut Keyboard powered by a Raspberry Pi RP2040. \
 The same microcontroller powers the Raspberry Pi Pico RP2040 and the usage is much the same.
@@ -133,7 +135,7 @@ Home: https://github.com/TheMindVirus/macropad/ \
 Demo: https://themindvirus.github.io/macropad/ \
 RP2040: https://www.raspberrypi.org/products/raspberry-pi-pico/ \
 Macropad: https://learn.adafruit.com/adafruit-macropad-rp2040?view=all \
-CircuitPython: https://circuitpython.org/
+CircuitPython: https://circuitpython.org/ \
 CherryMX: https://www.cherrymx.de/en \
 BrickLink: https://www.bricklink.com/v3/studio/download.page \
 Lego Digital Designer: https://www.lego.com/en-us/ldd \
