@@ -105,6 +105,36 @@ flash briefly on the display and all your keys will illuminate with a sequence o
 This is the demo program and it gets overwritten by your code. (See `./Factory Firmware/` for similar code)
 
 ![IMG_4955.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4955.JPG)
+
+You can use either Arduino IDE or CircuitPython to program your Macropad. The versions used in this project \
+were Arduino IDE 1.8.13 and CircuitPython7-rc1. You will also need to install the relevant Macropad Libraries. \
+Uploading firmware is the same process as for the Raspberry Pi Pico. Press in the Rotary Encoder for BOOTSEL.
+
 ![IMG_4958.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4958.JPG)
+
+When you hold down BOOTSEL while powering on your Macropad, it will appear as a USB Flash Drive, \
+but it is only for storing temporary programs (not for important documents which may be lost). \
+Dragging `./CircuitPython7.uf2` to this drive will cause it to disappear as "RPI-RP2" and reappear as "CIRCUITPY".
+
 ![IMG_4960.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4960.JPG)
+
+The Macropad requires no extra driver installation to work because it uses the USB Mass Storage Standard Class \
+which is built into many operating systems. My sketch turns the keys into the hidden F13-F24 keys on Windows \
+and makes a sound on each key press. If however you want to do something different then feel free to experiment.
+
 ![IMG_4962.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4962.JPG)
+
+I hope you enjoyed following my project and maybe even have your own Macropad designs and sketches as a result. \
+If you like what you see, please consider clicking the sponsor button at the top of this page while perusing. \
+More content is being created every day by a diverse group of people who are sometimes unappreciated for their work.
+
+# Useful Links
+Home: https://github.com/TheMindVirus/macropad/ \
+Demo: https://themindvirus.github.io/macropad/ \
+RP2040: https://www.raspberrypi.org/products/raspberry-pi-pico/ \
+Macropad: https://learn.adafruit.com/adafruit-macropad-rp2040?view=all \
+CircuitPython: https://circuitpython.org/
+CherryMX: https://www.cherrymx.de/en \
+BrickLink: https://www.bricklink.com/v3/studio/download.page \
+Lego Digital Designer: https://www.lego.com/en-us/ldd \
+Unity: https://unity.com/
