@@ -23,7 +23,7 @@ Demo: https://themindvirus.github.io/macropad/
 # Parts
 To start with, I purchased a fine selection of Glorious CherryMX Switches from OverclockersUK. \
 Every key switch in the sample pack is a different flavour of tactile feel and clickyness. \
-You will need at least 12 of them to complete your Macropad.
+You will need at least 12 of them to complete your Macropad. (More info in `./costings.txt`)
 
 ![IMG_4910.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4910.JPG)
 
@@ -78,7 +78,7 @@ top of each switch (some of which have square boundaries around them). I instead
 # Assembly
 Carefully, without applying too much pressure, align and attach each CherryMX switch to its slot on the Macropad. \
 The pins are quite fragile and are prone to bending. They need to connect to the board's conductive contacts. \
-No soldering is required, the switches should click into place. I also found a knob cap from an old defunct mixer.
+No soldering is required; the switches should click into place. I also found a knob cap from an old defunct mixer.
 
 ![IMG_4939.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4939.JPG)
 
@@ -100,7 +100,9 @@ The next stage is to connect the Macropad to your PC and upload your own custom 
 
 ![IMG_4949.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4949.JPG)
 
-
+As soon as you plug in your Adafruit Macropad produced by DigiKey Electronics, you will see their logos \
+flash briefly on the display and all your keys will illuminate with a sequence of breathing light colours. \
+This is the demo program and it gets overwritten by your code. (See `./Factory Firmware/` for similar code)
 
 ![IMG_4955.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4955.JPG)
 ![IMG_4958.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4958.JPG)
