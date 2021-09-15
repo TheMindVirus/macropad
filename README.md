@@ -69,6 +69,9 @@ on your desk. I will be using this cable with the USB Hub on the back of the Ras
 
 ![IMG_4935.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4935.JPG)
 
+While attempting to attach the Lego keycaps to the CherryMX switches, I realised that this was not enough to hold \
+the keycaps sturdily in place. The key switches came with a set of rubber inserts that fit around the axle on the \
+top of each switch (some of which have square boundaries around them). I instead opted for some Blu Tack!
 
 ![IMG_4938.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4938.JPG)
 ![IMG_4939.JPG](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/IMG_4939.JPG)
