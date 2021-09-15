@@ -16,6 +16,7 @@ It is a good idea to prototype in any way you like before you receive the budget
 It's also useful for showing people what you want to create so that they know how to help you. \
 I decided to create my prototype in Unity3D using Unity WebGL Player so it can run on a phone. \
 Demo: https://themindvirus.github.io/macropad/
+![Prototype.png](https://github.com/TheMindVirus/macropad/blob/main/Visual%20Assets/Prototype.png)
 
 # Assembly
 
