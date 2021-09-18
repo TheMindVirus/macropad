@@ -89,7 +89,7 @@ while True:
             reset_presses()
         
         elif c == "*":
-            data_entry = ""
+            data_entry = data_entry[ : len(data_entry) - 1 ]
             reset_presses()
         
         elif idx == last_pressed:
