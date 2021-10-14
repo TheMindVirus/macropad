@@ -1,0 +1,5 @@
+[CREDIT]: https://github.com/internap/fake-switches
+[CREDIT]: Cisco Systems
+[CREDIT]: Adafruit Industries
+[CREDIT]: TheMindVirus
+[CREDIT]: IETF IEEE RFC
