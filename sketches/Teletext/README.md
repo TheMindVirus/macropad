@@ -1,0 +1,2 @@
+![screenshot](https://github.com/themindvirus/macropad/blob/archive/sketches/teletext/screenshot.png)
+![teleprompter](https://github.com/themindvirus/macropad/blob/archive/sketches/teletext/teleprompter.jpg)
