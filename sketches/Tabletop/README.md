@@ -11,9 +11,9 @@
 * 2 keys remain unused and will be open for user-customisable macro keys
 
 # Links
-https://api.tabletopsimulator.com/events/#onscriptingbuttondown
-https://api.tabletopsimulator.com/components/examples/
-https://api.tabletopsimulator.com/types/#vector
+https://api.tabletopsimulator.com/events/#onscriptingbuttondown \
+https://api.tabletopsimulator.com/components/examples/ \
+https://api.tabletopsimulator.com/types/#vector \
 https://docs.circuitpython.org/projects/hid/en/latest/api.html
 
-### Tabletop Simulator Saves are usually found in `Documents/My Games/Tabletop Simulator/Saves/`
+#### Tabletop Simulator Saves are usually found in `Documents/My Games/Tabletop Simulator/Saves/`
