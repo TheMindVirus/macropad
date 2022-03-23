@@ -1,6 +1,6 @@
 # Tabletop Simulator Scripting Buttons
-### Tabletop Simulator running on Unity Engine 2019 does not allow C# Scripting for Custom Assetbundles
-### but it does turn numberpad keys into 1->10 as "scripting buttons" for triggering lua events and controlling Unity Components.
+### Tabletop Simulator running on Unity Engine 2019 does not allow C# Scripting for Custom Assetbundles...
+### ...but it does turn numberpad keys into 1->10 as "scripting buttons" for triggering lua events and controlling Unity Components.
 
 # Notes
 * The lua scripting takes the following code layout: `function onScriptingButtonDown(index, color) print(index) end`
