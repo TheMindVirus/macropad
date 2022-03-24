@@ -13,3 +13,4 @@ including a custom feature to display your own Q-Codes after boot has completed
 
 ![postcard](https://github.com/themindvirus/macropad/blob/archive/sketches/QCodeRoG/postcard1.png)
 ![postcard](https://github.com/themindvirus/macropad/blob/archive/sketches/QCodeRoG/postcard2.png)
+![postcard](https://github.com/themindvirus/macropad/blob/archive/sketches/QCodeRoG/postcard3.png)
