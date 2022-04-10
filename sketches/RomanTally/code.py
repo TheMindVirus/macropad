@@ -11,7 +11,7 @@ tally_separators = [" ", "-"]
 
 def main():
     print(number2roman(931094))
-    print(roman2number("IX")) # "C̅M̅X̅X̅X̅MXCIV"))
+    print(roman2number("C̅M̅X̅X̅X̅MXCIV"))
     print(number2tally(6))
     print(tally2number("++++ |"))
     print(roman2tally("IX"))
