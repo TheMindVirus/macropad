@@ -89,3 +89,4 @@ def tally2roman(tally):
 if __name__ == "__main__":
     main()
 ```
+![screenshot](https://github.com/themindvirus/macropad/blob/archive/sketches/RomanTally/screenshot.png)
