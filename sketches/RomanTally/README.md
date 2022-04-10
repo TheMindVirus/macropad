@@ -1,3 +1,4 @@
+# Code
 ```py
 # Roman Numerals and Tally - Alastair Cota
 # Minimal implementation of converting integers to Roman Numerals and ASCII Tally
@@ -89,4 +90,5 @@ def tally2roman(tally):
 if __name__ == "__main__":
     main()
 ```
+# Screenshot
 ![screenshot](https://github.com/themindvirus/macropad/blob/archive/sketches/RomanTally/screenshot.png)
