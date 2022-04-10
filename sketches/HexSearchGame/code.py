@@ -1,0 +1,1 @@
+import sys, random; n = 4444; sys.stdout.write(" ".join(["{:02X}".format(random.randint(0, 255)) if i != random.randint(0, n - 1) else "WI FI" for i in range(0, n)]));
