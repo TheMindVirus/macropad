@@ -1,5 +1,5 @@
 # Chiplet
-![blueprint](/blob/archive/sketches/Chiplet/blueprint.png)
+![blueprint](https://github.com/TheMindVirus/macropad/blob/archive/sketches/Chiplet/blueprint.png)
 ```py
 # Chiplet - Alastair Cota - 22:10 17/06/2022
 # This code.py simulates a custom chiplet that I designed in Minecraft Mods
@@ -66,4 +66,4 @@ while True:
     chiplet.inputs[6] = 1
     chiplet.inputs[7] = 1
 ```
-![screenshot](/blob/archive/sketches/Chiplet/screenshot.png)
+![screenshot](https://github.com/TheMindVirus/macropad/blob/archive/sketches/Chiplet/screenshot.png)
