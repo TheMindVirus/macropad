@@ -106,3 +106,5 @@ while True:
             text_lines[i + 1].text = str(line_history[i + line_offset])
     text_lines.show()
 ```
+
+![screenshot](https://github.com/themindvirus/macropad/blob/archive/sketches/StopwatchTimer/screenshot.png)
