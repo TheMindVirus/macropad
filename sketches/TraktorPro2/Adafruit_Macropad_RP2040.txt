@@ -1,0 +1,41 @@
+[Adafruit_Macropad_RP2040]
+In Port: CircuitPython Audio
+Out Port: CircuitPython Audio
+
+[Controls]
+In, Flux Mode On, Device Target, Ch01.CC.000, Button, Hold, Normal
+In, Loop Set, Device Target, Ch01.CC.000, Button, Hold, Normal
+In, Loop Size Selector, Device Target, Ch01.CC.126, Knob, Relative, 100%, 0%, Normal
+Out, Beat Phase, Device Target, Ch01.CC.000, LED, Output, -0.5, 0.5, Normal, 0, 4, Blend
+Out, Track End Warning, Device Target, Ch01.CC.001, LED, Output, 0, 1, Normal, 0, 127, Blend
+In, Only Browser On, Global, Ch01.CC.127, Button, Hold, Normal
+In, Select Up/Down (Browser.List), Global, Ch01.CC.125, Knob, Relative, 100%, 0%, Normal
+In, Deck Focus Selector, Global, Ch01.CC.034, Knob, Relative, 100%, 0%, Normal
+In, Dry/Wet Adjust (FX Unit), FX Unit 1, Ch01.CC.001, Button, Direct, 1.0, Normal
+In, Effect 1 Selector, FX Unit 1, Ch01.CC.001, Button, Direct, Iceverb, Normal
+In, Button 1, FX Unit 1, Ch01.CC.001, Button, Hold, Normal
+In, Knob 1, FX Unit 1, Ch01.CC.033, Knob, Relative, 300%, 0%, Normal
+In, FX Unit 1 On, Device Target, Ch01.CC.001, Button, Direct, 1, Normal
+In, Low Adjust, Device Target, Ch01.CC.035, Knob, Relative, 300%, 0%, Normal
+In, Mid Adjust, Device Target, Ch01.CC.036, Knob, Relative, 300%, 0%, Normal
+In, High Adjust, Device Target, Ch01.CC.037, Knob, Relative, 300%, 0%, Normal
+In, Filter On, Device Target, Ch01.CC.006, Button, Hold, Normal
+In, Filter Adjust, Device Target, Ch01.CC.006, Button, Reset, Normal
+In, Filter Adjust, Device Target, Ch01.CC.038, Knob, 100%, 0%, Normal
+In, Filter Adjust, Device Target, Ch01.CC.006, Button, Reset, Invert
+In, Gain Adjust (Mixer), Device Target, Ch01.CC.007, Button, Reset, Normal
+In, Gain Adjust (Mixer), Device Target, Ch01.CC.039, Knob, Relative, 100%, 0%, Normal
+In, Gain Adjust (Mixer), Device Target, Ch01.CC.007, Button, Reset, Invert
+In, Keylock On (Preserve Pitch), Device Target, Ch01.CC.008, Button, Hold, Normal
+In, Key Adjust, Device Target, Ch01.CC.040, Knob, Relative, 300%, 0%, Normal
+In, Key Adjust, Device Target, Ch01.CC.008, Button, Reset, Invert
+In, Seek Position (Deck Common), Device Target, Ch01.CC.011, Button, Reset, Normal
+In, CUP (Cue Play), Device Target, Ch01.CC.011, Button, Hold, Normal
+In, Seek Position (Deck Common), Device Target, Ch01.CC.011, Button, Reset, Invert
+In, Position, Global, Ch01.CC.042, Knob, Relative, 222%, 0%, Normal
+In, Volume Adjust, Device Target, Ch01.CC.009, Button, Direct, 1.0, Invert
+In, Volume Adjust, Device Target, Ch01.CC.009, Button, Direct, 0.1, Invert
+In, Load Selected (Deck Common), Deck A, Ch01.CC.071, Button, Trigger, Normal
+In, Load Selected (Deck Common), Deck B, Ch01.CC.072, Button, Trigger, Normal
+In, Load Selected (Deck Common), Deck C, Ch01.CC.074, Button, Trigger, Normal
+In, Load Selected (Deck Common), Deck D, Ch01.CC.075, Button, Trigger, Normal
