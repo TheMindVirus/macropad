@@ -1,6 +1,6 @@
 # Braille
 
-![screenshot](/blob/archive/sketches/Braille/screenshot.png)
+![screenshot](https://github.com/themindvirus/macropad/blob/archive/sketches/Braille/screenshot.png)
 
 ```py
 # Braille Transposition - Alastair Cota - 14:42 24/08/2022
