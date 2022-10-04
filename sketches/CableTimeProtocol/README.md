@@ -17,7 +17,9 @@
 # COM = COMmunications port
 # WiFi = Wireless-Fidelity
 # LoRaWAN = Long Range Wide Area Network (Wireless)
-
+```
+# Notes
+```
 # Host Keeps Time & Date (it relies on NTP Server Sync or Atomic Clock Card)
 # Host Sends Time & Date (challenging on OS's with exclusive mode COM or USB)
 # Device Receives Time & Date (varies by implementation much like web server)
@@ -43,4 +45,4 @@
 # Once you have finished recovering your data (if you needed to), remove the code.py
 # and then you will be able to use BOOTSEL to switch back to your usual .uf2 image.
 ```
-With any luck this shouldn't have to happen and this zero day may be fixed soon.
+### *With any luck this shouldn't have to happen and this zero day may be fixed soon.*
