@@ -16,9 +16,9 @@
 # USB devices should use Ethernet (but some devices only have UART CDC Drivers)
 # Most USB devices don't have WiFi (some have RTC but is volatile on power loss)
 ```
-# WARNING: This application requires to be run with administrative privileges.
-# WARNING: This may disrupt communication with devices which don't support CTP!
-# WARNING! THIS MAY BRICK YOUR CIRCUITPYTHON DEVICE!
+## WARNING: This application requires to be run with Administrative Privileges.
+## WARNING: This may disrupt communication with devices which don't support CTP!
+## WARNING! THIS MAY BRICK YOUR CIRCUITPYTHON DEVICE!
 ```
 # For RP2040, use the Pico CircuitPython build as a recovery image.
 # No peripherals will light up but you may still get your data back.
