@@ -15,7 +15,7 @@
 # UART = Universal Asynchronous Receive/Transmit (Serial Bus)
 # CDC = Communications Device Class (USB Serial Driver)
 # COM = COMmunications port
-# WiFi = Wireless-Fidelity
+# Wi-Fi = Wireless-Fidelity
 # LoRaWAN = Long Range Wide Area Network (Wireless)
 ```
 # Notes
@@ -30,11 +30,11 @@
 
 # Not all devices will need it (e.g. LoRaWAN probably doesn't need it)
 # USB devices should use Ethernet (but some devices only have UART CDC Drivers)
-# Most USB devices don't have WiFi (some have RTC but is volatile on power loss)
+# Most USB devices don't have Wi-Fi (some have RTC but is volatile on power loss)
 ```
-## WARNING: This application requires to be run with Administrative Privileges.
+## WARNING: This application requires to be run with Administrative Privileges!
 ## WARNING: This may disrupt communication with devices which don't support CTP!
-## WARNING! THIS MAY BRICK YOUR CIRCUITPYTHON DEVICE!
+## WARNING: THIS MAY BRICK YOUR CIRCUITPYTHON DEVICE!
 ```
 # For RP2040, use the Pico CircuitPython build as a recovery image.
 # No peripherals will light up but you may still get your data back.
