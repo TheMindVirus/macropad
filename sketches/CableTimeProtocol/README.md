@@ -3,7 +3,21 @@
 
 ![screenshot](https://github.com/TheMindVirus/macropad/blob/archive/sketches/CableTimeProtocol/screenshot.png)
 
+# Jargon Buster
 ```
+# CTP = Cable Time Protocol
+# CTSP = Cable Time Synchronisation Protocol
+# NTP = Network Time Protocol
+# PTP = Precision Time Protocol
+# RTC = Real-Time Clock
+# OS = Operating System
+# USB = Universal Serial Bus
+# UART = Universal Asynchronous Receive/Transmit (Serial Bus)
+# CDC = Communications Device Class (USB Serial Driver)
+# COM = COMmunications port
+# WiFi = Wireless-Fidelity
+# LoRaWAN = Long Range Wide Area Network (Wireless)
+
 # Host Keeps Time & Date (it relies on NTP Server Sync or Atomic Clock Card)
 # Host Sends Time & Date (challenging on OS's with exclusive mode COM or USB)
 # Device Receives Time & Date (varies by implementation much like web server)
