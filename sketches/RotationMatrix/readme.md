@@ -198,5 +198,12 @@ print2D(C)
 ![screenshot](https://github.com/themindvirus/macropad/blob/archive/sketches/RotationMatrix/screenshot.png)
 ![screenshot2](https://github.com/themindvirus/macropad/blob/archive/sketches/RotationMatrix/screenshot2.png)
 
+The Construct Class is a heavily simplified version of a graphical calculator's compiler. \
+It's simplified on purpose so it can more closely adapt to edge cases - it would have bugs in general cases. \
+The alternative would be to over-optimise the matrix and all the operations which would cause reliability issues.
+
+Here is an example of such over-optimisation being removed from the algebraic compiler:
+![construct](https://github.com/themindvirus/macropad/blob/archive/sketches/RotationMatrix/construct.png)
+
 Just in case all of that didn't make any sense, here's the equation of a corkscrew wave...
 ![screenshot3](https://github.com/themindvirus/macropad/blob/archive/sketches/RotationMatrix/screenshot3.png)
