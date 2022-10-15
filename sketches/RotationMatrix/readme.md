@@ -1,3 +1,6 @@
+![reassembled](https://github.com/themindvirus/macropad/blob/archive/sketches/RotationMatrix/reassembled.png)
+![original](https://github.com/themindvirus/macropad/blob/archive/sketches/RotationMatrix/original.png)
+
 ```py
 # Rotation Matrix Calculator - Alastair Cota (source: Wikipedia)
 # This sketch was originally written in or around 2011 in my spare time when I was in school.
