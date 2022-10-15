@@ -197,3 +197,6 @@ print2D(C)
 
 ![screenshot](https://github.com/themindvirus/macropad/blob/archive/sketches/RotationMatrix/screenshot.png)
 ![screenshot2](https://github.com/themindvirus/macropad/blob/archive/sketches/RotationMatrix/screenshot2.png)
+
+Just in case all of that didn't make any sense, here's the equation of a corkscrew wave...
+![screenshot3](https://github.com/themindvirus/macropad/blob/archive/sketches/RotationMatrix/screenshot3.png)
