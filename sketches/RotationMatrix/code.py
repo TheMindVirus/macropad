@@ -72,9 +72,9 @@ print(", ".join([str(round(i, 2)) for i in t]))
 """
 rx = \
 [
-    [ cos, -sin,    0],
-    [ sin,  cos,    0],
-    [   0,    0,    0]
+    [   1,    0,    0],
+    [   0,  cos, -sin],
+    [   0,  sin,  cos]
 ]
 
 ry = \
@@ -86,9 +86,9 @@ ry = \
 
 rz = \
 [
-    [   1,    0,    0],
-    [   0,  cos, -sin],
-    [   0,  sin,  cos]
+    [ cos, -sin,    0],
+    [ sin,  cos,    0],
+    [   0,    0,    1]
 ]
 """
 # But this may be Y->X->Z instead of X->Y->Z...Simpler Solution?
