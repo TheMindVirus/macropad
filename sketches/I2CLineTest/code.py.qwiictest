@@ -1,0 +1,45 @@
+# I2C Line Tester - Alastair Cota
+# This sketch tests the quality of the GPIO connection on the pins used
+# by your I2C devices by pulsing them on and off to check for a response.
+
+# This code is intended for the MicroMod RP2040
+
+import board, digitalio, bitbangio, time
+
+print("MicroMod RP2040")
+
+stat = digitalio.DigitalInOut(board.LED)
+stat.direction = digitalio.Direction.OUTPUT
+stat.value = False
+blink_last = 0
+def blink(ing = 0.15):
+    global blink_last, stat
+    blink_now = time.monotonic()
+    if blink_now > (blink_last + ing):
+        stat.value = True if not stat.value else False
+        blink_last = blink_now
+
+clk = digitalio.DigitalInOut(board.SCL)
+dat = digitalio.DigitalInOut(board.SDA)
+clk.direction = digitalio.Direction.INPUT
+dat.direction = digitalio.Direction.INPUT
+clk_last = False
+dat_last = False
+test_last = 0
+def test(ing = 0.15):
+    global test_last, clk_last, dat_last, clk, dat
+    test_now = time.monotonic()
+    if test_now > (test_last + ing):
+        clk_now = clk.value
+        dat_now = dat.value
+        if clk_now != clk_last:
+            print("[CLK]:", clk_now)
+            clk_last = clk_now
+        if dat_now != dat_last:
+            print("[DAT]:", dat_now)
+            dat_last = dat_now
+        test_last = test_now
+
+while True:
+    test()
+    blink()
