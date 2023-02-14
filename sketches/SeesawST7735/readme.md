@@ -7,6 +7,7 @@
  * 1x 4-pin mini JST-SH StemmaQT Cable (connects to the side closest to VIN)
 
 <!-- link to code.py -->
+https://github.com/TheMindVirus/macropad/blob/b1c9eef4712cf36aefc240149f2f67e5ec82b83e/sketches/SeesawST7735/code.py#L3
 
 #### Software SPI through a microcontroller can be quite slow. It can instead run at 20MHz on the ATTiny8x7 itself...
 #### Stock Firmware Arduino Library: https://github.com/adafruit/Adafruit_seesawPeripheral
