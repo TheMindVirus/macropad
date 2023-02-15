@@ -1,0 +1,36 @@
+8 Consecutive Pins Required for ST7735
+
+P9_11: Works
+P9_13: Works
+P9_15: Works
+P9_17: Works
+P9_19: Stuck
+P9_21: Works
+P9_23: Works
+P9_25: Stuck
+P9_27: Works
+P9_29: Stuck
+P9_31: Stuck
+
+P9_12: Works
+P9_14: Works
+P9_16: Works
+P9_18: Works
+P9_20: Stuck
+P9_22: Works
+P9_24: Works
+P9_26: Works
+P9_28: Stuck
+P9_30: Works
+
+8_3: Unstable
+8_5: Unstable On // Backlight!
+8_7: Works
+8_9: Works
+8_11: Works
+8_13: Works
+8_15: Works
+8_17: Works
+8_19: Works
+8_21: Unstable
+8_23: Unstable
