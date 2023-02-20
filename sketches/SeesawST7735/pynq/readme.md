@@ -45,5 +45,5 @@ the red development boards which AMD once used in their ascension labs to bring 
 
 ![AMDzynq](https://github.com/TheMindVirus/macropad/blob/archive/sketches/SeesawST7735/pynq/AMDzynq.png)
 
-AMD Xilinx at ARM Tech Conference 2014: https://youtu.be/pcB-AXA_DIQ?t=1506 \
-AMD at CES 2023: https://www.youtube.com/live/OMxU4BDIm4M?feature=share&t=3892
+AMD Xilinx @ ARM Tech Conference 2014: https://youtu.be/pcB-AXA_DIQ?t=1506 \
+AMD @ CES 2023: https://www.youtube.com/live/OMxU4BDIm4M?feature=share&t=3892
