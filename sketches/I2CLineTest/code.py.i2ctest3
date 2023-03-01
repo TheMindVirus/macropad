@@ -1,0 +1,26 @@
+import board, busio, time
+
+i2c = None
+
+def reconnect():
+    global i2c
+    print("[INFO]: Acquiring I2C Lock...")
+    if i2c:
+        try:
+            i2c.unlock()
+        except:
+            pass
+    i2c = busio.I2C(board.SCL, board.SDA)
+    i2c.try_lock()
+    print("[INFO]: I2C Lock Acquired")
+
+reconnect()
+while True:
+    try:
+        addresses = [hex(a) for a in i2c.scan()]
+        print(addresses)
+        time.sleep(1)
+    except Exception as error:
+        print(error)
+        reconnect()
+        time.sleep(1)
