@@ -11,7 +11,7 @@ macropad = MacroPad()
 tmp = 0
 state = 0
 previous = 0
-threshold = 2
+threshold = 3
 result = 0
 
 outputA = digitalio.DigitalInOut(board.SCL)
@@ -42,7 +42,8 @@ def reset():
     for key in keys:
         macropad.pixels[int(key)] = keys[key]["off"]
         keys[key]["state"] = 0
-    outputA.value = outputB.value = False
+    outputA.value = False
+    outputB.value = not outputA.value
 
 def refresh():
     global keys, tmp, state, previous, threshold, result, outputA, outputB
@@ -50,7 +51,7 @@ def refresh():
     for i in range(0, len(keys)):
         tmp += keys[str(i)]["state"]
     state = tmp
-    result = (state > threshold)
+    result = (state >= threshold)
     if state != previous:
         print("on" if result else "off")
         outputA.value = result
