@@ -1,5 +1,7 @@
 # SPI Line Monitor
 
+![screenshot](https://github.com/TheMindVirus/macropad/blob/archive/sketches/SPILineMonitor/SPILineMonitor.png)
+
 ![screenshot](https://github.com/TheMindVirus/macropad/blob/archive/sketches/SPILineMonitor/IMG_6283.JPG)
 
 ```c
