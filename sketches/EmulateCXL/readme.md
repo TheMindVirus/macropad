@@ -1,6 +1,6 @@
 # EmulateCXL
 
-![screenshot](/blob/archive/sketches/EmulateCXL/screenshot.png)
+![screenshot](https://github.com/TheMindVirus/macropad/blob/archive/sketches/EmulateCXL/screenshot.png)
 
 ```py
 # CXL Stack Recovery Emulation - Alastair Cota
