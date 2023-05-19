@@ -1,6 +1,6 @@
 # USB-HTTP Web Server
 
-![screenshot](/blob/archive/sketches/USBhttp/screenshot.png)
+![screenshot](https://github.com/themindvirus/macropad/blob/archive/sketches/USBhttp/screenshot.png)
 
 ```py
 # Simple HTTP Server - Alastair Cota
@@ -54,5 +54,5 @@ while True:
 
 ```
 
-![screenshot](/blob/archive/sketches/USBhttp/screenshot2.png)
-![screenshot](/blob/archive/sketches/USBhttp/screenshot3.png)
+![screenshot](https://github.com/themindvirus/macropad/blob/archive/sketches/USBhttp/screenshot2.png)
+![screenshot](https://github.com/themindvirus/macropad/blob/archive/sketches/USBhttp/screenshot3.png)
