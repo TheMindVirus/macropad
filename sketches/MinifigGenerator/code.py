@@ -111,9 +111,9 @@ while True:
         display()
         encoder_position = current_position
     if current_position > encoder_position:
-        index -= 1
-        if index < 0:
-            index = len(buffer) - 1
+        index += 1
+        if index >= len(buffer):
+            index = 0
         display()
         encoder_position = current_position
     
