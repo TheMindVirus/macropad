@@ -1,0 +1,51 @@
+from adafruit_macropad import MacroPad
+
+macropad = MacroPad()
+
+kc = macropad.Keycode
+
+def deg():
+    print("°")
+    macropad.keyboard.send(kc.ALT, kc.KEYPAD_ZERO, kc.KEYPAD_ONE, kc.KEYPAD_SEVEN, kc.KEYPAD_SIX)
+
+index = \
+{
+    0 : { "esc": "0", "alt": "degrees", "seq": "°", "cmd" : "deg" },
+}
+
+selected = 0
+def display(i = 0):
+    global index
+    slide = macropad.display_text()
+    slide[0].text = "esc: " + str(index[i]["esc"])
+    slide[1].text = "alt: " + str(index[i]["alt"])
+    slide[2].text = "seq: " + str(index[i]["seq"])
+    slide[3].text = "cmd: " + str(index[i]["cmd"])
+    slide.show()
+
+last_position = 0
+display(last_position)
+
+while True:
+    current_position = macropad.encoder
+    if current_position > last_position:
+        selected += 1
+        if selected >= len(index):
+            selected = 0
+        display(selected)
+        last_position = current_position
+    elif current_position < last_position:
+        selected -= 1
+        if selected < 0:
+            selected = len(index) - 1
+        display(selected)
+        last_position = current_position
+
+    macropad.encoder_switch_debounced.update()
+    if macropad.encoder_switch_debounced.pressed:
+        try:
+            fn = eval(index[selected]["cmd"])
+            if fn != None:
+                fn()
+        except Exception as error:
+            print(error)
