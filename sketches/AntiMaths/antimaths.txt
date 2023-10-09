@@ -1,0 +1,138 @@
+-6ABCDEF + BCDEF + ACDEF + ABDEF + ABCEF + ABCDF + ABCDE 
+-6ABCDEF + BCDEF + ACDEF + ABDEF + ABCEF + ABCDF + ABCDE [+ ABCDE - ABCDE]
+-6ABCDEF + BCDEF + ACDEF + ABDEF + ABCEF + ABCDF [+ ABCDE]
+-6ABCDE + BCDE + ACDE + ABDE + ABCE + ABCD [+ ABCDE]
+-5ABCDE + BCDE + ACDE + ABDE + ABCE + ABCD
+
+-5ABCDE + BCDE + ACDE + ABDE + ABCE + ABCD
+-5ABCDE + BCDE + ACDE + ABDE + ABCE + ABCD [+ ABCD - ABCD]
+-5ABCDE + BCDE + ACDE + ABDE + ABCE [+ ABCD]
+-5ABCD + BCD + ACD + ABD + ABC [+ ABCD]
+-4ABCD + BCD + ACD + ABD + ABC
+
+-4ABCD + BCD + ACD + ABD + ABC
+-4ABCD + BCD + ACD + ABD + ABC [+ ABC - ABC]
+-4ABCD + BCD + ACD + ABD [+ ABC]
+-4ABC + BC + AC + AB [+ ABC]
+-3ABC + BC + AC + AB
+
+-3ABC + BC + AC + AB
+-3ABC + BC + AC + AB [+ AB - AB]
+-3ABC + BC + AC [+ AB]
+-3AB + B + A [+ AB]
+-2AB + B + A
+
+-2AB + B + A
+-2AB + B + A [+ A - A]
+-2AB + B [+ A]
+-2A + 1 [+ A]
+-A + 1
+
+-A + 1
+-A + 1 [+ 1 - 1]
+-A [+ 1]
+-1 [+ 1]
+0
+
+0
+0 [+ 0 - 0]
+-0 [+ 0]
+-0 [+ 0]
+-0
+
+-0
+-0 [- 0 + 0]
+0 [- 0]
+0 [- 0]
+0
+
+0
+0 [- 1 + 1]
+1 [- 1]
+a [- 1]
+a - 1
+
+a - 1
+a - 1 [- a + a]
+2a - 1 [- a]
+2ab - b [- a]
+2ab - b - a
+
+2ab - b - a
+2ab - b - a [- ab + ab]
+3ab - b - a [- ab]
+3abc - bc - ac [- ab]
+3abc - bc - ac - ab
+
+3abc - bc - ac - ab
+3abc - bc - ac - ab [- abc + abc]
+4abc - bc - ac - ab [- abc]
+4abcd - bcd - acd - abd [- abc]
+4abcd - bcd - acd - abd - abc
+
+4abcd - bcd - acd - abd - abc
+4abcd - bcd - acd - abd - abc [- abcd + abcd]
+5abcd - bcd - acd - abd - abc [- abcd]
+5abcde - bcde - acde - abde - abce [- abcd]
+5abcde - bcde - acde - abde - abce - abcd
+
+5abcde - bcde - acde - abde - abce - abcd
+5abcde - bcde - acde - abde - abce - abcd [- abcde + abcde]
+6abcde - bcde - acde - abde - abce - abcd [- abcde]
+6abcdef - bcdef - acdef - abdef - abcef - abcdf [- abcde]
+6abcdef - bcdef - acdef - abdef - abcef - abcdf - abcde
+
+6abcdef - bcdef - acdef - abdef - abcef - abcdf - abcde
+-6ABCDEF + BCDEF + ACDEF + ABDEF + ABCEF + ABCDF + ABCDE
+A = pow(a, -1)
+a = log(-1, A)
+
+0x^1 - 0
+1x^1 - 1
+2x^2 - 2x
+3x^3 - 6x
+4x^4 - 12x
+5x^5 - 20x
+6x^6 - 30x
+
+(3 * pow(8, 3)) - (6 * 8) = 1488
+8 * 8 * 8 = 512
+512 * 3 = 1536 (3x^3)
+1536 - 1488 = 48 (6 * 8)
+1488 / 1536 = 0.96875
+1.0 - 0.96875 = 0.03125
+
+(6 * pow(8, 6)) - (30 * 8) = 1572624
+8 * 8 * 8 * 8 * 8 * 8 = 262144
+262144 * 6 = 1572864 (6x^6)
+1572864 - 1572624 = 240 (30 * 8)
+1572624 / 1572864 = 0.999847412109375
+1.0 - 0.999847412109375 = 0.000152587890625
+
+0x^1 - (0 * ~x)
+1x^1 - (1 * 0x)
+2x^2 - (2 * 1x)
+3x^3 - (3 * 2x)
+4x^4 - (4 * 3x)
+5x^5 - (5 * 4x)
+6x^6 - (6 * 5x)
+
+0x^0 - (1 * 0x)
+1x^1 - (1 * 1x)
+2x^2 - (1 * 2x)
+3x^3 - (2 * 3x)
+4x^4 - (3 * 4x)
+5x^5 - (4 * 5x)
+6x^6 - (5 * 6x)
+
+nx^n - (n * max(0, n-1)x)
+(mn)(x^mn)-(mn*max(0,mn-1)x)
+(m*n*pow(x,m*n))-(m*n*max(0,(m*n)-1)*x)
+
+x=1;m=1;n=1;(m*n*pow(x,m*n))-(m*n*max(0,(m*n)-1)*x)
+x=1;m=1;n=1;(m*n*pow(x,m*n))-(max(0,(m*n)-1)*(x*(m*n)))
+x=1;m=1;n=1;(m*n*pow(x,m*n))-(max(1,(m*n)-1)*(x*(m*n)))
+
+x=1;m=1;(m*pow(x,m))-(max(1,m-1)*(x*m))
+
+x=8;n=1;(n*pow(x,n))-(max(1,abs(n)-1)*(x*n))
