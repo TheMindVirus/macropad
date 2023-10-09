@@ -27,11 +27,11 @@ AntiMaths seeks to find a usable pattern within a suitably defined context.
 
 The example used to generate the custom code was that of programmable shading \
 and also 2D->3D Proto-board PCB design, whereby you have a number of pads in a grid \
-of variable dimensions (sometimes the dimensions are the same and squares can be simplified).
+of variable dimensions. (Sometimes the dimensions are the same and squares can be simplified.)
 
 The number of pads is given by abc. When a=b=c, it's x^3. \
-each set of pads in 2D could be connected in straight lines. \
-when it is in a 3D lattice, there are more straight lines interconnecting the layers.
+Each set of pads in 2D could be connected in straight lines. \
+When it is in a 3D lattice, there are more straight lines interconnecting the layers.
 
 There are as many interconnect lines as there are pads, multiplied by the dimensions. \
 A small but not insignificant optimisation to the number of interconnects can be made. \
