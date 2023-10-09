@@ -41,3 +41,14 @@ This only highlights the interconnects which are on the inside of the lattice.
 The way that AntiMaths is applied to this problem allows for a standard formula to be written \
 that makes use of what would otherwise be invalid dimensions in the negative space. \
 Certain aspects of the calculation are considered edge-case and not suitable for general maths.
+
+![untitled](https://github.com/TheMindVirus/macropad/blob/archive/sketches/AntiMaths/untitled.png)
+
+Here is another example which makes use of AntiMathematic calculations. \
+In this pcb there are vias as the interconnects between each set of 2.54mm pitch space pads. \
+The pitch space of the via relative to the pad is 1.27mm. There is an extra set of vias on the edge.
+
+The vias on the edge can be either removed from that edge or added to the opposite edge. \
+The number of vias is different from the number of interconnects because vias overlap at corners. \
+The calculation might need n-1 vias removing from the total or n-1 adding to the total \
+depending on the context in which you decide to count and what it is you are counting.
