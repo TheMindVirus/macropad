@@ -136,3 +136,5 @@ x=1;m=1;n=1;(m*n*pow(x,m*n))-(max(1,(m*n)-1)*(x*(m*n)))
 x=1;m=1;(m*pow(x,m))-(max(1,m-1)*(x*m))
 
 x=8;n=1;(n*pow(x,n))-(max(1,abs(n)-1)*(x*n))
+
+x=8;n=1;(n*pow(x,abs(n)))-max(1,abs(n)-1)*(x*n)
