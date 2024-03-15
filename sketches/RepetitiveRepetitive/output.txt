@@ -1,0 +1,31 @@
+Adafruit CircuitPython 7.0.0-rc.1 on 2021-09-02; Adafruit Macropad RP2040 with rp2040
+>>>
+>>>
+soft reboot
+
+Auto-reload is on. Simply save files over USB to run them or enter REPL to disable.
+code.py output:
+Lorem Ipsum Ipsum Lorem Lorem Lorem Ipsum Ipsum Ipsum Ipsum Lorem Lorem Lorem Lorem Lorem Ipsum Ipsum Ipsum Ipsum Ipsum Ipsum Lorem Lorem Lorem Lorem Lorem Lorem Lorem Ipsum Ipsum Ipsum Ipsum Ipsum Ipsum Ipsum Ipsum Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Ipsum Ipsum Ipsum Ipsum Ipsum Ipsum Ipsum Ipsum Ipsum Ipsum
+
+Lorem Ipsum Ipsum Lorem Lorem Lorem Ipsum Ipsum Ipsum Ipsum Lorem Lorem Lorem Lorem Lorem Ipsum IpsuSomething
+
+[INFO]: Please Wait...
+[WARN]: Error: "no active exception to reraise"
+[WARN]: Error: "no active exception to reraise"
+[WARN]: Error: "no active exception to reraise"
+[WARN]: Error: "no active exception to reraise"
+[WARN]: Error: "no active exception to reraise"
+[WARN]: Error: "no active exception to reraise"
+[WARN]: Error: "no active exception to reraise"
+[WARN]: Error: "no active exception to reraise"
+[WARN]: Error: "no active exception to reraise"
+[WARN]: Further Errors Suppressed
+[INFO]: This might take a little while...
+[INFO]: Progress: 100% (763/763)
+{'orem Ipsum': 3, 'um Lorem': 2, 'Lorem Ip': 3, 'psum Ip': 5, 'Lorem Ipsu': 3, 'em Lo': 6, 'rem Lor': 6, 'orem ': 9, 'rem L': 6, 'um Ipsum': 4, 'rem Ips': 3, 'rem I': 3, ' Ipsum': 7, 'Lorem ': 9, 'rem Lo': 6, 'psum ': 7, 'um Lo': 2, 'm Ipsum': 7, ' Ipsum I': 5, 'em Ipsum': 3, ' Ipsum L': 2, 'em Lorem': 6, 'em Ipsum ': 3, 'm Ipsum I': 5, 'um Ipsum ': 4, 'm Ipsum L': 2, 'psum Lor': 2, ' Lore': 8, 'sum Ipsu': 5, ' Ipsum Lo': 2, 'sum Lorem': 2, 'Lorem Lor': 6, ' Ipsu': 8, ' Lorem': 8, 'sum Lore': 2, 'sum Ipsum': 4, ' Lorem Lo': 6, 'em L': 6, 'um Ipsu': 5, 'm Ipsum Ip': 5, 'em I': 3, ' Ipsum Ips': 5, 'Ipsum Lor': 2, 'em Ips': 3, 'rem Lorem': 6, 'um Lore': 2, 'm Lo': 8, 'Ipsum Ip': 5, 'psum Ipsum': 4, ' Lorem L': 6, 'um L': 2, 'em Ipsu': 3, 'orem Lo': 6, 'um I': 5, ' Lorem I': 2, 'Ipsum ': 7, 'um Ips': 5, 'em Lore': 6, 'm Lorem Lo': 6, 'Lorem Lore': 6, 'rem Lorem ': 6, 'm Lorem Ip': 2, ' Lorem Ips': 2, 'psum Ipsu': 5, 'Ipsum Lore': 2, 'Ipsum Ipsu': 5, 'um Lorem L': 2, 'psum Lore': 2, 'orem Lorem': 6, 'sum Lo': 2, 'rem Ipsum ': 3, ' Ips': 8, ' Lorem Lor': 6, 'm Lorem': 8, 'em Lorem L': 4, 'm Ipsum ': 7, 'Ipsum L': 2, 'Ipsum Ips': 5, 'Ipsum I': 5, 'rem ': 9, 'sum Lor': 2, 'psum': 7, 'orem Lore': 6, ' Lorem Ip': 2, 'um Ipsum L': 2, 'em Lorem I': 2, 'um Ipsum I': 2, 'orem Ipsu': 3, 'psum L': 2, 'psum Ips': 5, 'em Ipsum I': 3, 'Ipsum': 7, 'm Ipsu': 8, 'psum I': 5, 'm Lorem I': 2, 'm Lore': 8, ' Lorem ': 8, 'm Lorem L': 6, 'sum Ipsum ': 4, 'm Ips': 8, 'um Ip': 5, 'um Lorem ': 2, 'rem Ip': 3, 'orem Ip': 3, 'um Lor': 2, 'rem Ipsum': 3, 'm Lorem ': 8, 'm Ip': 8, 'Lore': 9, 'em Ip': 3, 'Ipsum Lo': 2, 'em Lorem ': 6, 'orem I': 3, 'Ipsu': 8, 'Lorem': 9, 'psum Lo': 2, 'orem L': 6, 'Lorem Lo': 6, 'orem Lor': 6, 'sum L': 2, 'sum Ips': 5, 'em Lor': 6, 'sum I': 5, 'orem Ips': 3, 'rem Ipsu': 3, 'rem Lore': 6, ' Ipsum Lor': 2, 'sum ': 7, ' Ipsum Ip': 5, 'Lorem L': 6, 'orem': 9, ' Lor': 8, 'Lorem I': 3, 'Lorem Ips': 3, 'sum Ip': 5, ' Ipsum ': 7, 'm Lor': 8, 'm Ipsum Lo': 2, 'psum Lorem': 2, 'sum Lorem ': 2}
+[INFO]: Progress: 100% (763/763)
+[INFO]: Done!
+
+Code done running.
+
+Press any key to enter the REPL. Use CTRL-D to reload.
