@@ -1,0 +1,11 @@
+Adafruit CircuitPython 7.0.0-rc.1 on 2021-09-02; Adafruit Macropad RP2040 with rp2040
+>>>
+soft reboot
+
+Auto-reload is on. Simply save files over USB to run them or enter REPL to disable.
+code.py output:
+Resistor, Resacitor, Resducer, Resode, Capistor, Capacitor, Capducer, Capode, Transistor, Transacitor, Transducer, Transode, Memistor, Memacitor, Memducer, Memode, Negistor, Negacitor, Negducer, Negode, Nullistor, Nullacitor, Nullducer, Nullode, Monistor, Monacitor, Monducer, Monode, Diistor, Diacitor, Diducer, Diode, Triistor, Triacitor, Triducer, Triode, Pentistor, Pentacitor, Pentducer, Pentode, Hexistor, Hexacitor, Hexducer, Hexode, Septistor, Septacitor, Septducer, Septode, Octistor, Octacitor, Octducer, Octode, Nonistor, Nonacitor, Nonducer, Nonode, Decistor, Decacitor, Decducer, Decode, Varistor, Varacitor, Varducer, Varode, Variistor, Variacitor, Variducer, Variode
+
+Code done running.
+
+Press any key to enter the REPL. Use CTRL-D to reload.
