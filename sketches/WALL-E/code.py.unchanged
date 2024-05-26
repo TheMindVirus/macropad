@@ -1,0 +1,24 @@
+import time
+
+checklist = \
+[
+    "mechanical systems",
+    "reactor core temperature",
+    "passenger count",
+    "regenerative food buffet",
+    "jacuzzi pH balance",
+    "atmospheric conditions",
+    "laundry service volume",
+]
+
+print("\033[38;2;0;255;255m")
+try:
+    while True:
+        for item in checklist:
+            t = 30 - len(str(item))
+            print("[" + str(item) + "]:" + (" " * t) + "\t", end = "")
+            time.sleep(1)
+            print("<UNCHANGED>")
+            time.sleep(1)
+except:
+    print("\033[0m")
