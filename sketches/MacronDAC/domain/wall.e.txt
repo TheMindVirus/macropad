@@ -1,0 +1,19 @@
+# wall.e.txt - 04:20 18/06/2024
+# Macron Domain Potential Encodings:
+0 - No Change
+1 - Macron
+2 - Micron
+3 - Macron + Micron #!!! Micron + Macron prints differently
+
+0 - Macron + Micron
+1 - Micron
+2 - Macron
+3 - No Change
+
+Either way, the encoding follows a big.LITTLE type structure
+where 0 being No Change is LITTLE and 3 being No Change is big
+      - ----
+e.g. +130.195
+       --   -
+Optional dashes may be added to the decimal point and/or sign
+to indicate which way the decimal point moved during alignment
