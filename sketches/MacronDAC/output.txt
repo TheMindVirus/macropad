@@ -1,0 +1,251 @@
+Adafruit CircuitPython 7.0.0-rc.1 on 2021-09-02; Adafruit Macropad RP2040 with rp2040
+>>>
+soft reboot
+
+Auto-reload is on. Simply save files over USB to run them or enter REPL to disable.
+code.py output:
+̰̃6̰̃4̰̃.̰̃3̰̃2 ̰̃6̰4.̃32 #!!! Displays Incorrectly in Notepad but correctly in Python
+-32.0 [60] -28
+-32.0 [60] -32
+
+[Mod1]
+0000 - AAC - Analog to Analog Converter
+0001 - ADC - Analog to Digital Converter
+0002 - ATC - Analog to Ternary Converter
+0003 - APC - Analog to Pulse Converter
+0004 - AGC - Analog to Granular Converter
+0005 - DAC - Digital to Analog Converter
+0006 - DDC - Digital to Digital Converter
+0007 - DTC - Digital to Ternary Converter
+0008 - DPC - Digital to Pulse Converter
+0009 - DGC - Digital to Granular Converter
+0010 - TAC - Ternary to Analog Converter
+0011 - TDC - Ternary to Digital Converter
+0012 - TTC - Ternary to Ternary Converter
+0013 - TPC - Ternary to Pulse Converter
+0014 - TGC - Ternary to Granular Converter
+0015 - PAC - Pulse to Analog Converter
+0016 - PDC - Pulse to Digital Converter
+0017 - PTC - Pulse to Ternary Converter
+0018 - PPC - Pulse to Pulse Converter
+0019 - PGC - Pulse to Granular Converter
+0020 - GAC - Granular to Analog Converter
+0021 - GDC - Granular to Digital Converter
+0022 - GTC - Granular to Ternary Converter
+0023 - GPC - Granular to Pulse Converter
+0024 - GGC - Granular to Granular Converter
+
+[Mod2]
+0000 - UUN - Unary-Unary-Nilary
+0001 - UBN - Unary-Binary-Nilary
+0002 - UTN - Unary-Ternary-Nilary
+0003 - UQN - Unary-Quantum-Nilary
+0004 - UVN - Unary-Vintage-Nilary
+0005 - UHN - Unary-Hexery-Nilary
+0006 - USN - Unary-Septary-Nilary
+0007 - UON - Unary-Octuary-Nilary
+0008 - UCN - Unary-Chinary-Nilary
+0009 - UXN - Unary-Xeniary-Nilary
+0010 - BUN - Binary-Unary-Nilary
+0011 - BBN - Binary-Binary-Nilary
+0012 - BTN - Binary-Ternary-Nilary
+0013 - BQN - Binary-Quantum-Nilary
+0014 - BVN - Binary-Vintage-Nilary
+0015 - BHN - Binary-Hexery-Nilary
+0016 - BSN - Binary-Septary-Nilary
+0017 - BON - Binary-Octuary-Nilary
+0018 - BCN - Binary-Chinary-Nilary
+0019 - BXN - Binary-Xeniary-Nilary
+0020 - TUN - Ternary-Unary-Nilary
+0021 - TBN - Ternary-Binary-Nilary
+0022 - TTN - Ternary-Ternary-Nilary
+0023 - TQN - Ternary-Quantum-Nilary
+0024 - TVN - Ternary-Vintage-Nilary
+0025 - THN - Ternary-Hexery-Nilary
+0026 - TSN - Ternary-Septary-Nilary
+0027 - TON - Ternary-Octuary-Nilary
+0028 - TCN - Ternary-Chinary-Nilary
+0029 - TXN - Ternary-Xeniary-Nilary
+0030 - QUN - Quantum-Unary-Nilary
+0031 - QBN - Quantum-Binary-Nilary
+0032 - QTN - Quantum-Ternary-Nilary
+0033 - QQN - Quantum-Quantum-Nilary
+0034 - QVN - Quantum-Vintage-Nilary
+0035 - QHN - Quantum-Hexery-Nilary
+0036 - QSN - Quantum-Septary-Nilary
+0037 - QON - Quantum-Octuary-Nilary
+0038 - QCN - Quantum-Chinary-Nilary
+0039 - QXN - Quantum-Xeniary-Nilary
+0040 - VUN - Vintage-Unary-Nilary
+0041 - VBN - Vintage-Binary-Nilary
+0042 - VTN - Vintage-Ternary-Nilary
+0043 - VQN - Vintage-Quantum-Nilary
+0044 - VVN - Vintage-Vintage-Nilary
+0045 - VHN - Vintage-Hexery-Nilary
+0046 - VSN - Vintage-Septary-Nilary
+0047 - VON - Vintage-Octuary-Nilary
+0048 - VCN - Vintage-Chinary-Nilary
+0049 - VXN - Vintage-Xeniary-Nilary
+0050 - HUN - Hexery-Unary-Nilary
+0051 - HBN - Hexery-Binary-Nilary
+0052 - HTN - Hexery-Ternary-Nilary
+0053 - HQN - Hexery-Quantum-Nilary
+0054 - HVN - Hexery-Vintage-Nilary
+0055 - HHN - Hexery-Hexery-Nilary
+0056 - HSN - Hexery-Septary-Nilary
+0057 - HON - Hexery-Octuary-Nilary
+0058 - HCN - Hexery-Chinary-Nilary
+0059 - HXN - Hexery-Xeniary-Nilary
+0060 - SUN - Septary-Unary-Nilary
+0061 - SBN - Septary-Binary-Nilary
+0062 - STN - Septary-Ternary-Nilary
+0063 - SQN - Septary-Quantum-Nilary
+0064 - SVN - Septary-Vintage-Nilary
+0065 - SHN - Septary-Hexery-Nilary
+0066 - SSN - Septary-Septary-Nilary
+0067 - SON - Septary-Octuary-Nilary
+0068 - SCN - Septary-Chinary-Nilary
+0069 - SXN - Septary-Xeniary-Nilary
+0070 - OUN - Octuary-Unary-Nilary
+0071 - OBN - Octuary-Binary-Nilary
+0072 - OTN - Octuary-Ternary-Nilary
+0073 - OQN - Octuary-Quantum-Nilary
+0074 - OVN - Octuary-Vintage-Nilary
+0075 - OHN - Octuary-Hexery-Nilary
+0076 - OSN - Octuary-Septary-Nilary
+0077 - OON - Octuary-Octuary-Nilary
+0078 - OCN - Octuary-Chinary-Nilary
+0079 - OXN - Octuary-Xeniary-Nilary
+0080 - CUN - Chinary-Unary-Nilary
+0081 - CBN - Chinary-Binary-Nilary
+0082 - CTN - Chinary-Ternary-Nilary
+0083 - CQN - Chinary-Quantum-Nilary
+0084 - CVN - Chinary-Vintage-Nilary
+0085 - CHN - Chinary-Hexery-Nilary
+0086 - CSN - Chinary-Septary-Nilary
+0087 - CON - Chinary-Octuary-Nilary
+0088 - CCN - Chinary-Chinary-Nilary
+0089 - CXN - Chinary-Xeniary-Nilary
+0090 - XUN - Xeniary-Unary-Nilary
+0091 - XBN - Xeniary-Binary-Nilary
+0092 - XTN - Xeniary-Ternary-Nilary
+0093 - XQN - Xeniary-Quantum-Nilary
+0094 - XVN - Xeniary-Vintage-Nilary
+0095 - XHN - Xeniary-Hexery-Nilary
+0096 - XSN - Xeniary-Septary-Nilary
+0097 - XON - Xeniary-Octuary-Nilary
+0098 - XCN - Xeniary-Chinary-Nilary
+0099 - XXN - Xeniary-Xeniary-Nilary
+
+[Mod3]
+0000 - UUZ - Unagem Unagen Zilla
+0001 - UDZ - Unagem Duagen Zilla
+0002 - UTZ - Unagem Triagen Zilla
+0003 - UQZ - Unagem Quadragen Zilla
+0004 - UPZ - Unagem Pentagen Zilla
+0005 - UHZ - Unagem Hexagen Zilla
+0006 - USZ - Unagem Septagen Zilla
+0007 - UOZ - Unagem Octagen Zilla
+0008 - UNZ - Unagem Nonagen Zilla
+0009 - UXZ - Unagem Xenagen Zilla
+0010 - DUZ - Duagem Unagen Zilla
+0011 - DDZ - Duagem Duagen Zilla
+0012 - DTZ - Duagem Triagen Zilla
+0013 - DQZ - Duagem Quadragen Zilla
+0014 - DPZ - Duagem Pentagen Zilla
+0015 - DHZ - Duagem Hexagen Zilla
+0016 - DSZ - Duagem Septagen Zilla
+0017 - DOZ - Duagem Octagen Zilla
+0018 - DNZ - Duagem Nonagen Zilla
+0019 - DXZ - Duagem Xenagen Zilla
+0020 - TUZ - Triagem Unagen Zilla
+0021 - TDZ - Triagem Duagen Zilla
+0022 - TTZ - Triagem Triagen Zilla
+0023 - TQZ - Triagem Quadragen Zilla
+0024 - TPZ - Triagem Pentagen Zilla
+0025 - THZ - Triagem Hexagen Zilla
+0026 - TSZ - Triagem Septagen Zilla
+0027 - TOZ - Triagem Octagen Zilla
+0028 - TNZ - Triagem Nonagen Zilla
+0029 - TXZ - Triagem Xenagen Zilla
+0030 - QUZ - Quadragem Unagen Zilla
+0031 - QDZ - Quadragem Duagen Zilla
+0032 - QTZ - Quadragem Triagen Zilla
+0033 - QQZ - Quadragem Quadragen Zilla
+0034 - QPZ - Quadragem Pentagen Zilla
+0035 - QHZ - Quadragem Hexagen Zilla
+0036 - QSZ - Quadragem Septagen Zilla
+0037 - QOZ - Quadragem Octagen Zilla
+0038 - QNZ - Quadragem Nonagen Zilla
+0039 - QXZ - Quadragem Xenagen Zilla
+0040 - PUZ - Pentagem Unagen Zilla
+0041 - PDZ - Pentagem Duagen Zilla
+0042 - PTZ - Pentagem Triagen Zilla
+0043 - PQZ - Pentagem Quadragen Zilla
+0044 - PPZ - Pentagem Pentagen Zilla
+0045 - PHZ - Pentagem Hexagen Zilla
+0046 - PSZ - Pentagem Septagen Zilla
+0047 - POZ - Pentagem Octagen Zilla
+0048 - PNZ - Pentagem Nonagen Zilla
+0049 - PXZ - Pentagem Xenagen Zilla
+0050 - HUZ - Hexagem Unagen Zilla
+0051 - HDZ - Hexagem Duagen Zilla
+0052 - HTZ - Hexagem Triagen Zilla
+0053 - HQZ - Hexagem Quadragen Zilla
+0054 - HPZ - Hexagem Pentagen Zilla
+0055 - HHZ - Hexagem Hexagen Zilla
+0056 - HSZ - Hexagem Septagen Zilla
+0057 - HOZ - Hexagem Octagen Zilla
+0058 - HNZ - Hexagem Nonagen Zilla
+0059 - HXZ - Hexagem Xenagen Zilla
+0060 - SUZ - Septagem Unagen Zilla
+0061 - SDZ - Septagem Duagen Zilla
+0062 - STZ - Septagem Triagen Zilla
+0063 - SQZ - Septagem Quadragen Zilla
+0064 - SPZ - Septagem Pentagen Zilla
+0065 - SHZ - Septagem Hexagen Zilla
+0066 - SSZ - Septagem Septagen Zilla
+0067 - SOZ - Septagem Octagen Zilla
+0068 - SNZ - Septagem Nonagen Zilla
+0069 - SXZ - Septagem Xenagen Zilla
+0070 - OUZ - Octagem Unagen Zilla
+0071 - ODZ - Octagem Duagen Zilla
+0072 - OTZ - Octagem Triagen Zilla
+0073 - OQZ - Octagem Quadragen Zilla
+0074 - OPZ - Octagem Pentagen Zilla
+0075 - OHZ - Octagem Hexagen Zilla
+0076 - OSZ - Octagem Septagen Zilla
+0077 - OOZ - Octagem Octagen Zilla
+0078 - ONZ - Octagem Nonagen Zilla
+0079 - OXZ - Octagem Xenagen Zilla
+0080 - NUZ - Nonagem Unagen Zilla
+0081 - NDZ - Nonagem Duagen Zilla
+0082 - NTZ - Nonagem Triagen Zilla
+0083 - NQZ - Nonagem Quadragen Zilla
+0084 - NPZ - Nonagem Pentagen Zilla
+0085 - NHZ - Nonagem Hexagen Zilla
+0086 - NSZ - Nonagem Septagen Zilla
+0087 - NOZ - Nonagem Octagen Zilla
+0088 - NNZ - Nonagem Nonagen Zilla
+0089 - NXZ - Nonagem Xenagen Zilla
+0090 - XUZ - Xenagem Unagen Zilla
+0091 - XDZ - Xenagem Duagen Zilla
+0092 - XTZ - Xenagem Triagen Zilla
+0093 - XQZ - Xenagem Quadragen Zilla
+0094 - XPZ - Xenagem Pentagen Zilla
+0095 - XHZ - Xenagem Hexagen Zilla
+0096 - XSZ - Xenagem Septagen Zilla
+0097 - XOZ - Xenagem Octagen Zilla
+0098 - XNZ - Xenagem Nonagen Zilla
+0099 - XXZ - Xenagem Xenagen Zilla
+
+[Mod4]
+0000 - SSe - Sept-u-a-Sept-en-ni-al
+0001 - SCe - Sept-u-a-Cent-en-ni-al
+0002 - CSe - Cent-u-a-Sept-en-ni-al
+0003 - CCe - Cent-u-a-Cent-en-ni-al
+
+
+Code done running.
+
+Press any key to enter the REPL. Use CTRL-D to reload.
