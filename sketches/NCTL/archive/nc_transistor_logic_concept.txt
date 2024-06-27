@@ -1,0 +1,148 @@
+NC Transistor Logic [NCTL] - "NC Chip"
+16-state (4-bit) ALU
+S0, S1, S2, S3 - 4x Selector Lines
+VCC, GND, AGND, AVCC - 4x Power Lines
+A, B, C, NC, NB, NA - 6x Data Lines
+NRST, NLE - 2x Latch Lines
+
+ALT0 - Full DIP Active Latched Multiplex
+
+ ->A - [01 16] - VCC
+ ->B - [02 15] - AVCC
+ <-C - [03 14] - NRST
+<-NC - [04 13] - NLE
+<-NB - [05 12] - S3<-
+<-NA - [06 11] - S2<-
+AGND - [07 10] - S1<-
+ GND - [08 09] - S0<-
+
+ALT1 - Full DIP Active Latched Inline
+
+ ->A - [01 16] - NA->
+ ->B - [02 15] - NB->
+ <-C - [03 14] - NC->
+ VCC - [04 13] - GND
+AVCC - [05 12] - AGND
+ RST - [06 11] - LE
+  S0 - [07 10] - S3
+  S1 - [08 09] - S2
+
+ALT2 - Full DIP Active Unlatched Inline
+
+ ->A - [01 16] - NA->
+ ->B - [02 15] - NB->
+ <-C - [03 14] - NC->
+NRST - [04 13] - NLE
+AVCC - [05 12] - S3
+ VCC - [06 11] - S2
+ GND - [07 10] - S1
+AGND - [08 09] - S0
+
+ALT3 - Full DIP Active Unlatched Inline
+
+NRST - [01 16] - C->
+ NLE - [02 15] - NC->
+->NB - [03 14] - B<-
+->NA - [04 13] - A<-
+  S3 - [05 12] - AGND
+  S2 - [06 11] - GND
+  S1 - [07 10] - AVCC
+  S0 - [08 09] - VCC
+
+ALT4 - Half DIP Passive
+
+  A - [01 08] - S3 (INV)
+  B - [02 07] - S2
+  C - [03 06] - S1
+GND - [04 05] - S0
+
+ALT5 - Half DIP Passive Rotated
+
+S0 - [01 08] - GND
+S1 - [02 07] - C (EXT INV)
+S2 - [03 06] - B (EXT INV)
+S3 - [04 05] - A (EXT INV)
+
+ALT6 - Full DIP Passive Rotated w/ Built-in Inverts
+
+ S0 - [01 16] - VCC
+ S1 - [02 15] - C
+ S2 - [03 14] - B
+ S3 - [04 13] - A
+  A - [05 12] - INVA
+  B - [06 11] - INVB
+  C - [07 10] - INVC
+GND - [08 09] - INVS3
+
+passive array of <20 nc transistors packaged with multiplexer selector logic
+
+0000 - NNNN x4
+0001 - NNNP x3
+0010 - NNPN x3
+0011 - NNPP x2
+0100 - NPNN x3
+0101 - NPNP x2
+0110 - NPPN x2
+0111 - NPPP x1
+Total: 4 + 3(3) + 3(2) + 1 = 4 + 9 + 6 + 1 = 20x nc transistors - for 8-bit selector
+
+1000 - PNNN x3
+1001 - PNNP x2
+1010 - PNPN x2
+1011 - PNPP x1
+1100 - PPNN x2
+1101 - PPNP x1
+1110 - PPPN x1
+1111 - PPPP x0
+Total: 3 + 3(2) + 3(1) + 0 = 3 + 6 + 3 = +12 => 32x nc transistors - for 16-bit selector
+
+[Instructions]
+#: |S3|S2|S1|S0|: opcode - nc transistor count
+|AB|00|10|01|11|=>|CCCC|
+0: 0000: NIL
+1: 0001: AND
+
+2: 0010: XB
+3: 0011: B
+4: 0100: XA
+5: 0101: A
+
+6: 0110: XOR
+7: 0111: OR
+8: 1000: NOR
+9: 1001: XNOR
+
+A: 1010: NA
+B: 1011: XNA
+C: 1100: NB
+D: 1101: XNB
+
+E: 1110: NAND
+F: 1111: ONE
+
+Provisional Total: 2(0) + 6(1) + 6(2) + 2(3) = 0 + 6 + 12 + 6 = +24 => 56x nc transistors + 8 spare not gates => 64x
+
+Passive logic has issue of requiring on-state current for inversion, might leech it from the selector lines
+Transistor count is rough estimate pending physical electronic testing
+
+1x DIP IC package containing wired assortment of 64x passive nc transistor
+the buffer can also be simplified by applying not to the inputs and outputs and wiring them together in a bus matrix
+the resulting output is more correct and uses less nc transistors and not gates
+current diagrams are early concepts and might be inaccurate depictions of the final circuits
+
+another encoding might enable the 4th bit to be a negate bit to quickly swap between opposite opcodes
+but it would require the instructions to be in the same order rather than opposite truth table order
+it would remove a fair amount of not gates doing it this way but it's more of a shortcut and less systematic
+
+ALT6 is preferred because it's consistent with 74HC259N 8-bit addressable latch and there are 2 ways of doing things
+7-state version is built, requires pull-downs for tri-states so might need a ground pin somewhere on it
+tri-states are raw no-transistors with the base biasing the emitter whereas the not gates are just nc-transistors
+
+no. of tri-states: 7 + 2 => 9 no-transistors
+nc. of not gates: 2 + 4 + 7 + 3 + 1 => 17 nc-transistors
+total: 26 transistors of 2 kinds for all 16 opcodes and 64 states
+(or gates are just wire taps but might require diodes or triacs for direction control)
+
+another potential way to do this is to include the 2 input pins and the 4th selector line
+into a 5x7 matrix with an invert on the end to get the 6th set of states
+the result fits into the problem space of an 8x8 matrix so maybe only 16 or 12 transistors are required
