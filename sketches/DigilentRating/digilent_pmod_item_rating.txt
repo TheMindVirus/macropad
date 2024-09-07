@@ -1,0 +1,150 @@
+# Digilent PMOD
+# Product Rating
+
+[rated_pmod_products]: // + and * are interchangeable, testing (??) for query inferred reasoning
+pmod i2s: +++++
+pmod cmp: +++++
+pmod nor: +++ (?complex?)
+pmod rgb: +++++
+pmod acl: +++++
+pmod ad2: +++++
+pmod ad5: +++++
+pmod als: +++++
+pmod bbw: +++++
+pmod btn: +++++
+pmod dhb: +++++
+pmod enc: +++ (?physicality?)
+pmod kpd: +++++
+pmod ono: +++++
+pmod tmp: +++++
+pmod r2r: +++++
+pmod 232: +++ (?legacy?)
+pmod rtc: +++ (?practicality?)
+pmod 7sd: +++++
+pmod swt: ++++ (?appearance?)
+pmod tm3: +++++
+pmod usb: +++++
+pmod kit: +++++
+
+[unrated_pmod_products]: // (??) standardised for query inferred reasoning, - for extended descriptive reasoning
+pmod tof: (?practicality?) - nothing to use it with to validate it in the current usage
+pmod pir: (?accessibility?) - controls are too small for the intended usage
+pmod msd: (?sharpness?) - blades are too sharp for the intended usage
+pmod esp: (?complexity?) - requires custom radio testing procedures for valid usage
+pmod ble: (?complexity?) - requires custom radio testing procedures for valid usage
+pmod rgb: (?practicality?) - nothing to use it with to validate it in the current usage
+pmod can: (?legacy?) - port conflicts with more common rs232 usage
+pmod ssr: (?appearance?) - fins appear sharp whereas relays have solid usage
+pmod hum: (?safety?) - circuit boards and water don't tend to mix well in the intended usage
+pmod vga: (?complexity?) - requires 2 pmod ports plus a display driver for usage
+pmod joy: (?appearance?) - neon colours may clash when put alongside other usage
+pmod pin: (?sharpness?) - pins are too spiky for the intended usage
+pmod hat: (?sharpness?) - pins are too spiky for the intended usage
+pmod lvl: (?accessibility?) - controls are too small for the intended usage
+pmod 8ld: (?practicality?) - does not have associated switches or labelled usage
+pmod mem: (?quality?) - sensitivity is not accurate enough for microphone usage
+pmod ad1: (?expense?) - other module exists at a cheaper price with the same usage
+pmod op2: (?quality?) - sensitivity is not accurate enough for speaker usage
+pmod op3: (?quality?) - sensitivity is not accurate enough for speaker usage
+pmod bt2: (?complexity?) - requires custom radio testing procedures for valid usage
+pmod cdc: (?safety?) - direct contact with powered pcb is implied usage
+pmod cls: (?complexity?) - requires 2 pmod ports plus a display driver for usage
+pmod cn1: (?practicality?) - requires external tools for correct usage
+pmod cn3: (?practicality?) - requires external tools for correct usage
+pmod cn4: (?quality?) - sensitivity is not accurate enough for speaker usage
+pmod da3: (?connectivity?) - interference from other radio antennas may affect usage
+pmod da4: (?connectivity?) - does not have the appropriate connector for audio usage
+pmod da2: (?connectivity?) - does not have the appropriate connector for audio usage
+pmod pot: (?accessibility?) - difficult to comprehend virtual controls intuitively in the implied usage
+pmod dip: (?practicality?) - does not fit the connector shape for the intended usage
+pmod gyr: (?safety?) - direct contact with powered pcb is implied usage
+pmod hb5: (?connectivity?) - does not have the appropriate connector for motor usage
+pmod exp: (?practicality?) - uses quite a lot of board space exceeding the intended usage
+pmod led: (?practicality?) - does not have associated switches or labelled usage
+pmod ls1: (?accessibility?) - controls are too small for the intended usage
+pmod max: (?practicality?) - nothing to use it with to validate it in the current usage
+pmod oc1: (?practicality?) - uses quite a lot of board space exceeding the intended usage
+pmod od1: (?practicality?) - uses quite a lot of board space exceeding the intended usage
+pmod mon: (?connectivity?) - does not have the appropriate connector for power usage
+pmod ps2: (?practicality?) - nothing to use it with to validate it in the current usage
+pmod eth: (?practicality?) - nothing to use it with to validate it in the current usage
+pmod 485: (?practicality?) - nothing to use it with to validate it in the current usage
+pmod fsd: (?sharpness?) - blades are too sharp for the intended usage
+pmod tph: (?connectivity?) - does not have the appropriate connector for test usage
+pmod tp2: (?connectivity?) - does not have the appropriate connector for test usage
+pmod tc1: (?practicality?) - connector size obscures the measurement object and exceeds the space usage
+pmod kt2: (?sharpness?) - pins are too spiky for the intended usage
+
+[abstract_error_messages]: // standardised extended descriptive reasoning, sorted by order of modal frequency
+
+(?practicality?) - nothing to use it with to validate it in the current usage
+(?practicality?) - does not have associated switches or labelled usage
+(?practicality?) - requires external tools for correct usage
+(?practicality?) - requires external tools for correct usage
+(?practicality?) - nothing to use it with to validate it in the current usage
+(?practicality?) - does not fit the connector shape for the intended usage
+(?practicality?) - uses quite a lot of board space exceeding the intended usage
+(?practicality?) - does not have associated switches or labelled usage
+(?practicality?) - nothing to use it with to validate it in the current usage
+(?practicality?) - uses quite a lot of board space exceeding the intended usage
+(?practicality?) - uses quite a lot of board space exceeding the intended usage
+(?practicality?) - nothing to use it with to validate it in the current usage
+(?practicality?) - nothing to use it with to validate it in the current usage
+(?practicality?) - nothing to use it with to validate it in the current usage
+(?practicality?) - connector size obscures the measurement object and exceeds the space usage
+
+(?connectivity?) - interference from other radio antennas may affect usage
+(?connectivity?) - does not have the appropriate connector for audio usage
+(?connectivity?) - does not have the appropriate connector for audio usage
+(?connectivity?) - does not have the appropriate connector for motor usage
+(?connectivity?) - does not have the appropriate connector for power usage
+(?connectivity?) - does not have the appropriate connector for test usage
+(?connectivity?) - does not have the appropriate connector for test usage
+
+(?complexity?) - requires custom radio testing procedures for valid usage
+(?complexity?) - requires custom radio testing procedures for valid usage
+(?complexity?) - requires 2 pmod ports plus a display driver for usage
+(?complexity?) - requires custom radio testing procedures for valid usage
+(?complexity?) - requires 2 pmod ports plus a display driver for usage
+
+(?sharpness?) - blades are too sharp for the intended usage
+(?sharpness?) - pins are too spiky for the intended usage
+(?sharpness?) - pins are too spiky for the intended usage
+(?sharpness?) - blades are too sharp for the intended usage
+(?sharpness?) - pins are too spiky for the intended usage
+
+(?accessibility?) - controls are too small for the intended usage
+(?accessibility?) - controls are too small for the intended usage
+(?accessibility?) - difficult to comprehend virtual controls intuitively in the implied usage
+(?accessibility?) - controls are too small for the intended usage
+
+(?quality?) - sensitivity is not accurate enough for microphone usage
+(?quality?) - sensitivity is not accurate enough for speaker usage
+(?quality?) - sensitivity is not accurate enough for speaker usage
+(?quality?) - sensitivity is not accurate enough for speaker usage
+
+(?safety?) - circuit boards and water do not tend to mix well in the intended usage
+(?safety?) - direct contact with powered pcb is implied usage
+(?safety?) - direct contact with powered pcb is implied usage
+
+(?appearance?) - fins appear sharp whereas relays have solid usage
+(?appearance?) - neon paints may clash when put alongside other neon paint usage
+
+(?legacy?) - other module exists at a cheaper price with the same usage
+(?legacy?) - port conflicts with more common rs232 usage
+
+[dashboard_statistics_calculation]: // , and -> among other operators for segmentation, ... for added suspense
+15 + 7 + 5 + 5 + 4 + 4 + 3 + 2 + 2 = 50, -> 47 total entries
+15 / 47 = 0.319 -> 32% practicality
+7 / 47 = 0.149 -> 15% connectivity
+5 / 47 = 0.106 -> 11% complexity
+5 / 47 = 0.106 -> 11% sharpness
+4 / 47 = 0.085 -> 9% accessibility
+4 / 47 = 0.085 -> 9% quality
+3 / 47 = 0.064 -> 6% safety
+2 / 47 = 0.043 -> 4% appearance
+2 / 47 = 0.043 -> 4% legacy
+32 + 15 + 11 + 11 + 9 + 9 + 6 + 4 + 4 = 101...
+
+[sources]: // : // uniform resource locator for archival reference, [@] timestamp that also uses square brackets
+https://digilent.com/shop/fpga-boards/accessories/pmod-expansion-modules/ [@ 20:47 07/09/2024]

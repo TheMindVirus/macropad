@@ -1,0 +1,93 @@
+[page_1]:
+pmod tof: time of flight - board feature - silo metal chrome plate brushed steel brass reflective resonance - tunnel
+pmod pir: passive infrared - component housing - pththalene-vs-plepthate thalene-vs-plethate lighthouse - trimpot
+pmod i2s: inter chip sound - connector port - teflon solder sponge ceramic silicone square cell cooling pad - thermal
+pmod msd: micro secure digital - component housing - metal bending press folding-at-home protein storage project - tenure
+pmod esp: espressif radio module - board feature - snake winding radio chamber web portal internet exchange - testing
+pmod ble: bluetooth low energy - shield cage - electro-magnetic-interference faraday cage antenna group - tracing
+pmod rgb: colour sensor - chip packaging - sunset foil solarised cell space satellite solar panel multiband - teaming
+pmod can: car area network - connector port - canbus dsub miniature automotive communications sensor network - telemetry
+pmod cmp: compass gyroscope - board feature - nanotechnology microelectronics orienteering advancement - trawling
+pmod ssr: solid state relay - heatsink binding - finned heatmap celsius fahrenheit extraction vented compound pillar - temper
+pmod hum: humidity temperature - chip packaging - absolute relative ambient environmental warmth moisture - temperate
+pmod vga: video graphics array - connector port - dsub miniature visual character generator output display - titles
+
+[page_2]:
+pmod nor: nor flash memory - chip packaging - storage module program instructions data segmentation latency - timing
+pmod joy: analog stick - board feature - on-screen-menu option selection axis motion control cursor - trackball
+pmod pin: header pins - component housing - metal bending press folding-at-home protein connectivity synapse - terminus
+pmod hat: raspberry pi adapter - component housing - direct current barrel jack high voltage power current - transparency
+pmod ole: oled display - component housing - sunset foil solarised cell space satellite solar panel pixelated - triangles
+pmod lvl: level shifter - component housing - lever fulcrum switch position toggle option address mode select - transition
+pmod 8ld: 8 led pack - component housing - lenticule gold foil connector surface mount lighting indicator - translucency
+pmod acl: accelerometer - chip packaging - surface mount solder pad reflow oven pick-and-place generation - template
+pmod mem: mems membrane - chip packaging - surface mount solder pad reflow oven pick-and-place square - tiling
+pmod ad1: analog converter - chip packaging - surface mount solder pad reflow oven pick-and-place lofi - transcode
+pmod ad2: analog converter - chip packaging - surface mount solder pad reflow oven pick-and-place hifi - transcoding
+pmod ad5: analog converter - connector port - pcb mount coaxial antenna sma sub-miniature - transmission
+
+[page_3]:
+pmod als: ambient light sensor - chip packaging - orange green gold rectangular prismic structure - translucent
+pmod op2: audio amplifier - connector port - mono islanded audio channels waves ripples - transatlantic
+pmod op3: stereo power amplifier - connector port - dual copackaged stereo imaging polarity inversion - transpacific
+pmod bbw: prototyping board - board feature - solder pad milling machine tht array matrix grid - through
+pmod bt2: bluetooth interface - board feature - snake winding radio chamber personal area network - teething
+pmod btn: user buttons - component housing - chrome shiny cnc milled drill holes push press actuation - tactile
+pmod cdc: capacitive buttons - board feature - pcb printing service round interleaved junction - traces
+pmod cls: lcd screen - component housing - sequoia reflective solarised cell space satellite solar panel - tropical
+pmod cn1: terminal blocks - screw fittings - adjustable rotation screwdriver wire - tension
+pmod cn3: servo driver - screw fittings - adjustable rotation screwdriver wire motor driver - tensioning
+pmod cn4: rca connectors - connector port - dual copackaged stereo imaging polarity inversion ground plane - technics
+pmod da3: analog converter - connector port - pcb mount coaxial antenna sma sub-miniature - transmissive
+
+[page_4]:
+pmod da4: analog converter - component housing - ceramic capacitor above ground floor beef curtain laser - transitive
+pmod da2: analog converter - board feature - underneath below ground floor beef curtain laser - tenacious
+pmod pot: digital potentiometer - screw fittings - adjustable rotation screwdriver virtual level gain - tensioned
+pmod dhb: dual h-bridge - connector port - seeed studio grove attachment japan solderless - terminals
+pmod dip: dip adapter - connector port - header pins 2.54 millimeter pitch spacing gendered - tripod
+pmod enc: rotary encoder - human interface - round selector wheel dial toggle switch option select - tenuous
+pmod gyr: gyroscope - chip packaging - square surface mount reflow oven chip process advancement - tile
+pmod hb5: h-bridge - connector port - seeed studio grove attachment japan solderless feedback - termini
+pmod exp: expansion module - connector port - pmod meta expansion dual socket multiplexer - transistance
+pmod kpd: 16 button keypad - component housing - 0 1 2 3 4 5 6 7 8 9 a b c d e f hexadecimal encoding buttons - tactility
+pmod led: 4 led pack - component housing - lenticule gold foil connector surface mount lighting indicator - transmissiveness
+pmod ls1: infrared sensor - trimpot chassis - right angle delineation heat wave detector calibration - trimpots
+
+[page_5]:
+pmod max: ultrasonic sonar - component housing - round cylindrical vented grille pattern range finder - trounce
+pmod oc1: open collector transistor - board feature - underneath below ground floor beef curtain lasers - tenacity
+pmod od1: open drain transistor - screw fittings - adjustable rotation screwdriver actual level gain - tensioner
+pmod ono: oled display - component housing - sunset foil solarised cell space satellite solar panel plated ccd - technique
+pmod mon: power monitor - screw fittings - adjustable rotation screwdriver actual level meter - tensegrity
+pmod tmp: temperature sensor - chip packaging - teflon solder sponge ceramic silicone square cell cooling pad - thermally
+pmod ps2: keyboard mouse connector - connector port - round miniature din keyboard mouse cage - trap
+pmod r2r: resistor ladder - component housing - analog digital converter overhang overbite - tepid
+pmod eth: rj45 connector - connector port - dual socket pair pool reflective outer plating - tracer
+pmod 232: serial converter - connector port - dsub miniature gendered standard modem codec interface - terminal
+pmod 485: multiplex converter - chip packaging - analog devices surface mount rectangular - transitional
+pmod rtc: real time clock - component housing - round barrel resonator thin metal plate blade coin socket - taps
+
+[page_6]:
+pmod fsd: full size sd card slot - component housing - large original standard wide surface area - translation
+pmod 7sg: 7 segment display - component housing - pcb potting multiple segments information readout - tiles
+pmod swt: slide toggle switches - component housing - position toggle option address mode select - tracking
+pmod tm3: temperature sensor - board feature - jumper header pins streamed slotted surface mount device - topical
+pmod tph: test point header - board feature - sil pins connection point right angle interface - thorough
+pmod tp2: test point header - board feature - header pins connection point right angle interface - thoroughfare
+pmod usb: usb serial converter - connector port - micro usb rs232 conversion process realtime baud rate - talking
+pmod tc1: thermocouple module - chip packaging - square tile surface mount reflow oven process packaging - thermic
+pmod kit: cable kit - connector housing - cable extension kit multiple splitter header pins - tapping
+pmod kt2: cable kit - connector housing - cable extension kit singular jacketed header pins - tarpaulin
+
+[page_?]:
+pmod rvl: nintendo wiimote - connector port - wiimote nunchuk sensorbar console clocks power consumption - ticking
+pmod gps: global positioning - chip packaging - square ceramic yellow tile positional accuracy - trilateration
+pmod tri: graphics card - chip packaging - streaming multiprocessors transputer rotational precision - triangulation
+pmod trs: audio jack - connector port - tip ring sleeve meridian metal alloy transduction transconduction - tip
+pmod acc: controller adapter - component housing - 8bitdo okdo nintendo taito tate gamepad reflex impulse - trill
+pmod sol: soldering toolset - component housing - soldering iron replacement tip head screw bolt flux - tinned
+pmod trx: triac transistors - chip packaging - silicon controlled rectifier component compartmentalisation - triax
+pmod abc: abstract pmod module - board feature - theoretical possibilities process packaging showcase - theory
+pmod ref: reference pmod module - board feature - material science completeness process packaging showcase - technology
+pmod etc: everything else - chip packaging - ??? - ticks
