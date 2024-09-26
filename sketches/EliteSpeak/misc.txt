@@ -1,0 +1,480 @@
+[corporate_dialog]
+
+marshall fender ? ? - ample princeton ? ? - ample press release showcase - "A PR Stunt" - "April Fools" - "Daft" - "Bad" - "APPLE!"
+"i'm marshall..."
+"marshall likes styroids..."
+"marshall makes guitar amps..."
+"marshall starts making affordable toy cars..."
+"...wait, something is missing...SONY!"
+
+mitsubishi...mitsubishi tama/tomy...mitsubishi tamiya/takara...mitsubishi akai/akamai..."A-PUNK!"...mitsubishi asus rog strix cyberpunk..."MICROSOFT!"
+"i'm mitsubishi ..."
+"mitsubishi likes affordable toy cars ..."
+"mitsubishi is also into computer engineering ..."
+"mitsubishi is unsure whether to go for toy drums or toy computers ...toy drum computers?"
+"mitsubishi is unsure whether to go for toy cars or toy computers ...toy car computers?"
+"mitsubishi is unsure whether to go for toy keyboards or toy computers ...toy keyboard computers?"
+"AAA! ...HELP! ...Something's Missing! ...Oh ...don't worry, it's ok, found it ..."
+"mitsubishi is unsure whether to go for hardware motherboards or software videogames ..."
+
+nintendo...nintendo entertainment system...super nintendo...nintendo gba...nintendo ds...nintendo wii...nintendo wii u...nintendo switch..."GOOGLE!"
+"i'm nintendo..."
+"nintendo likes making cards...and also games...card games?" ('NYN') ...?
+"nintendo likes card games...Oh!...what's this?...a television...nintendo stares at the television...game and watch?" ('NES') ...?
+"nintendo likes game and watch...Oh!...what's this?...an avengers movie...nintendo stares at the avengers movie...overwatch league?" ('SNES') ...?
+"nintendo likes overwatch league...Oh!...what's this?...a laptop...nintendo stares at the laptop...gameboy colour?" ('GBC') ...?
+"nintendo likes gameboy colour...Oh!...what's this?...a dual screen laptop...nintendo stares at the dual screen laptop...third screen?" ('NDS') ...?
+"nintendo likes third screen...Oh!...what's this?...a cloud server...nintendo stares at the cloud server...tencent cloud?" ('TEN') ...?
+"nintendo likes tencent cloud...Oh!...what's this?...a mobile phone...nintendo stares at the mobile phone...huawei redline?" ('WEI') ...?
+"nintendo likes huawei redline...Oh!...what's this?...a model kit...nintendo stares at the model kit...xiaomi edge?" ('XIO') ...?
+"nintendo likes xiaomi edge...Oh!...what's this?...a fire engine...nintendo stares at the fire engine...google search?" ('FEZ') ...?
+...a lot happens at once...
+"nintendo likes google search...Oh!...what's this?...a web connected tv...nintendo stares at the web connected tv...samsung galaxy?" ('SAM') ...?
+"nintendo likes samsung galaxy...Oh!...what's this?...an app feature...nintendo stares at the app feature...adafruit feather?" ('ADA') ...?
+
+adafruit...adafruit feather...adafruit trellis...adafruit neopixels...adafruit metro...adafruit io...adafruit live..."YOUTUBE!"
+"i'm adafruit..."
+"adafruit likes birds...and also wristwatches...birdwatching?"
+"adafruit likes gardens...and also crossstitch...neotrellis?"
+"adafruit likes matrix...and also tubetrains...metropolis?"
+"adafruit likes thrillville...and also industry...industries?"
+"adafruit likes forums...and also streaming...livestreams?"
+...a lot happens at once...
+"adafruit likes youtube...and also graphics...applepress?"
+"adafruit likes iphone...and also xbox...simulcast?"
+"adafruit likes mixer...and also walle...hololive?"
+"adafruit likes ally...and also steamdeck...ciscoswitch?"
+"adafruit likes hub75...and also chubbycables...cablemod?"
+"adafruit likes arduino...and also raspberrypi...rp2040?"
+"adafruit likes pico...and also commodore64...unixsystemv?"
+"adafruit likes amiga...and also eurorack...system100?"
+"adafruit likes doepfer...and also aardman...razerblinka?"
+"adafruit likes lasers...and also xilinx...amdradeon?"
+"adafruit likes python...and micropython...circuitpython?"
+"adafruit likes ice...and also renderman...iceman?"
+"adafruit likes disney...and also pixar...disneypixar?"
+"adafruit likes epcot...and also sonyvegas...msgsphere?"
+"adafruit likes emoji...and also ascii...asciihaji?"
+"adafruit likes wizards...and also harrypotter...timewarner?"
+"adafruit likes gemini...and also ...!!!..."
+"adafruit likes gemini...and also macintosh...imageline?"
+"adafruit likes studio...and also microchip...atmelstudio?"
+"adafruit likes chips...and also pokémon...pokétch?"
+"adafruit likes kfc...and also hamburgers...mcdonalds?"
+"adafruit likes discs...and also gamedemos...demodiscs?"
+"adafruit likes flash...and also discotool...flashdrives?"
+"adafruit likes skittles...and also brunswick...pinsetter?"
+"adafruit likes spokes...and also bicycles...tronlegacy?"
+"adafruit likes halo...and also marines...halo3odst?"
+"adafruit likes dare...and also truth...truthtables?"
+"adafruit likes serum...and also wavetables...waldorf?"
+"adafruit likes iridium...and also eridium...borderlands?"
+"adafruit likes tinytina...and also wonderlands...tinyusb?"
+"adafruit likes usb...and also rs232usart...i2c/i2s/spi?"
+"adafruit likes buspirate...and also pimoroni...mezzanine?"
+"adafruit likes yukon...and also patchbay...peer2peer?" 
+"adafruit likes torrent...and also peering...edge2edge?"
+"adafruit likes edge...and also chromium...libcef?"
+"adafruit likes unicef...and also littlechef...gordano?"
+"adafruit likes anno...and also domini...annodomini?"
+"adafruit likes azure...and also activedirectory...littlefs?"
+"adafruit likes sdio...and also sandisk...sdcard?"
+"adafruit likes card...and also tensorboard...cardboard?"
+"adafruit likes stage...and also headset...callcenter?"
+"adafruit likes phone...and also signalbox...harrowgate?"
+"adafruit likes arrow...and also digikey...greatsearch?"
+"adafruit likes colour...and also crayola...crayfish?"
+"adafruit likes rays...and also casting...raycast?"
+"adafruit likes cast...and also tokens...ticketmaster?"
+"adafruit likes trains...and also tricks...trickroom?"
+"adafruit likes rick...and also morty...rickandmorty?"
+"adafruit likes more...and also new...resurrection?"
+"adafruit likes rezz...and also mau5...rezzmau5?"
+"adafruit likes omen...and also hewlett packard...prodigalsonny?"
+"adafruit likes insects...and also crabs...crabrave?"
+"adafruit likes brave...and also st. ives...johnnybravo?"
+"adafruit likes toons...and also networks...cartoonnetwork?" (what is adafruit? hanna barberra, barbera streisand...???...duck sauce...)
+...oooooooooooooooooooooooooooooooooooooooo... (sony ghost) (epic games) (electronic arts) ("origin irix") (never mind) (the gap) (lmnc)
+-> enter burbank studios socal -> nbc television studios -> blizzard entertainment -> overwatch league -> pokémon worlds -> nintendo museum
+
+[studio direct]: "names for gaming television shows + the all new watercooler and service (watch) dog" (bethesda) (id@xbox) (doomcraft)
++ "stranger things sequential prophet"
++ "daft punk sony ghost amd madhouse"
++ "arcane lighting animation studios"
++ "industrial light and magic houdini"
+-> ... something hasn't happened yet ...
+-> ... mysterious silence persists ...
+-> ... during perceived chip shortage ...
+-> ... and permission rejection denial ...
+-> "adafruit likes pioneer...and also AOL/DL/BT/EE...traktor/serato/deckadance/virtualdj?" (unix/linux/nuttx/panasonic/ginza/korg/nutekt)
+-> "adafruit likes unity...and also unreal engine...cryology/cryogenics/cryengine/crytek?" ("eugenics"/"generics"/"templates")
+-> "adafruit likes korg...and also yamaha mobility...rolandjupiter?" (Roland Design Group Japan)
+-> "adafruit likes lego...and also system...legosystem?" (dacta) (CERN/ERDF/ENSERG/RPI/2001)
+-> "adafruit likes ipad...and also macrokeys...macropad?" (cherry) (MX Compatible Keycaps)
+-> "adafruit likes crop...and also photoshop...workshop?" (orden) (uk garage neurofunk)
+-> "adafruit likes bork...and also wheatley...borkley?" (valve) (portal 2 reloaded)
+-> "adafruit likes clay...and also sculpture...blender?" (dutch) (netherlands geometry)
+-> "adafruit likes blend...and also rendering...galleria?" (heart) (regional gallery arcade)
+-> "adafruit likes arc...and also ...!!!..." ("AMD ALSTOM")
+-> "adafruit likes arc...and also bulkhead...interactive?"
+-> "adafruit likes intel...and also blackwell...blackwall?"
+-> "adafruit likes tunnel...and also 8bitdo...teredo?"
+-> "adafruit likes redo...and also refresh...rinse?"
+-> "adafruit likes ren...and also lightsaber...rensaber?"
+-> "adafruit likes sade...and also saber...saddle?"
+-> "adafruit likes ble...and also lowpower...bluetooth?"
+-> "adafruit likes blue...and also whistles...lonewolf?" (wallstreet)
+-> "adafruit likes one...and also twelve...123?"
+-> "adafruit likes mit...and also countdown...counter?"
+-> "adafruit likes er...and also recovery...responders?"
+-> "adafruit likes echo...and also beach...plasticbeach?"
+-> "adafruit likes asic...and also bbcmicrobit...pybasic?"
+-> "adafruit likes obs...and also olympics... ...!!!..." (something went wrong)
+-> "adafruit likes obs...and also olympics...riodejaneiro?"
+-> "adafruit likes samba...and also sharing...codepluscommunity?" (Katni-ssEverdeen)
+-> "adafruit likes fun...and also circus... ...!!!..." (cryptic)
+... a temporary changeover occurs ...
+-> "disney likes fun...and circus...elephants?"
+-> "disney likes eli...and api...doublediodes?"
+-> "disney likes infinite...and finite...impulse?"
+-> "disney likes response...and rel...envelope?"
+-> "disney likes elope...and nv...antelope?"
+-> "disney likes ante...and artemis...orionatem? (orrery storage goddard)
+... a temporary changeover occurs ...
+-> "kennedy likes vampires...and weekends...vampireweekend?" (kennedy space center)
+-> "kennedy likes fields...and bloonstd6...fieldsofmoab?"
+-> "kennedy likes moa...and burgers...moaburgers?"
+-> "kennedy likes burg...and ice...iceberg?"
+-> "kennedy likes berg...and cook...avicii?"
+-> "kennedy likes vici...and bastille...pompeii?"
+-> "kennedy likes pomp...and circumstance...grandeur?" (grand tour)
+-> "kennedy likes endure...and also endurance...lemans?"
+-> "kennedy likes lemons...and also consuela...lemonpledge?"
+-> "kennedy likes edge ...!!!..." (all go "wait a minute"...)
+
+[///!!!CONNECTION INTERRUPTED!!!\\\]
+
+..?..wh..what happened..has something gone wrong?..
+
+{ "they're waiting for you to say something" }
+
+..say what?..am i expected to do everything at once?..
+
+audio, video, radio, relay, power, input, track, logic,
+sound, light, orden, fluid, props, pyria, therm, codex,
+synch, epoch, cloud, range, guild, extra, multi, modal,
+
+audio playback - deck
+audio synthesis - synth
+audio recording - tape
+audio sampling - sampler
+audio streaming - app
+audio effector - pedal
+audio patcher - matrix
+audio aggregation - distro
+audio channelling - intercom
+audio calling - phone
+audio funnelling - diode
+audio headroom - buss
+
+video playout - mixer (vision)
+video animation - server (kaoss)
+video lighting - grid
+video graphics - card
+video casting - bridge
+video filters - shader
+video network - switch
+video distribution - hub
+video feeding - android
+video conferencing - portal
+video immersion - rift
+video overhead - galaxy
+
+radio transmission - transceiver
+radio reception - antenna
+radio generation - dynamo
+radio meridian - phase
+radio channel - frequency
+radio kerning - replay
+radio hosting - crewcut
+radio normalising - equaliser
+radio readying - onair
+radio multicast - simulcast
+radio ingress - pickup
+radio egress - signal
+
+relay patching - interface
+relay layout - pinout
+relay identification - gpio
+relay visuals - guide
+relay exchange - xfer
+relay digital - stock
+relay analog - verse
+relay quantum - nucleus
+relay neutrino - center
+relay drive - edge
+relay link - line
+relay pegboard - rack
+
+power controller - box
+power container - module
+power plate - panel
+power unit - device
+power corden - tensor
+power connector - jack
+power bulkhead - plug
+power outlet - socket
+power loop - main
+power circuit - ring
+power bios - boot
+power utility - meter
+
+input device - pad
+input vibration - rumble
+input analog - stick
+input resonance - grit
+input digitiser - scan
+input regulation - code
+input behaviour - protocol
+input buffer - packet
+input sideband - shoulder
+input pulltab - trigger
+input selection - click
+input rhythm - tap
+
+track head - playhead
+track move - scrubbing
+track nudge - jogwheel
+track notes - metadata
+track layer - alphakey
+track colour - chromakey
+track position - cropping
+track controls - transport
+track hopper - arranger
+track player - engine
+track station - workstation
+track warner - timecode
+
+logic digital - snake
+logic analog - wave
+logic sample - wavelet
+logic finite - window
+logic infinite - cycle
+logic runner - kernel
+logic setup - stage
+logic start - init
+logic end - exit
+logic tidy - cleanup
+logic build - assembly
+logic dismantle - disassembly
+
+sound system - amplifier
+sound clipping - limiter
+sound saturation - compressor
+sound crunch - distressor
+sound warning - siren
+sound distortion - rectifier
+sound spoken - vocoder
+sound character - wavetable
+sound terrain - granuliser
+sound volume - gain
+sound display - waveform
+sound processor - outboard
+
+light signal - cue
+light literation - font
+light attenuation - shadow
+light obscurance - occlusion
+light irradiance - absorption
+light anisotropy - tenting
+light trajectory - raycast
+light path - trace
+light bounce - reflection
+light scatter - frost
+light shutter - blind
+light aperture - iris
+
+orden sphere - orb
+orden ball - marble
+orden go - run
+orden raw - rush
+orden cut - edit
+orden net - craft
+orden discover - mine
+orden hideout - bunker
+orden shelter - mac
+orden package - core
+orden sequence - thread
+orden process - driver
+
+fluid dynamics - slosh
+fluid coverage - ocean
+fluid pipeline - links
+fluid obstacle - nodes
+fluid cerulate - pumps
+fluid reserves - vials
+fluid regulate - valve
+fluid conduits - tubes
+fluid radiator - grill
+fluid catapult - sling
+fluid manifold - inlet
+fluid storages - gland
+
+props cupboard - store
+props costumes - dress
+props rehearsal - tryout
+props designer - seamstress
+props stitcher - loom
+props weaving - crossstitch
+props material - fabric
+props surface - silk
+props threads - twist
+props prototype - model
+props staging - typesetting
+props camcorder - camera
+
+pyria feeds - social
+pyria videos - multimedia
+pyria halt - panic
+pyria pyro - fire
+pyria motion - choreo
+pyria switch - toggle
+pyria ephemora - moment 
+pyria fulcrum - point
+pyria frustum - viewport
+pyria heel - tap
+pyria kneel - incursion
+pyria paranoia - invasion
+
+therm thermals - temperature
+therm visuals - heatmap
+therm infrared - nightvision
+therm warning - caution
+therm matrix - gauze
+therm ventillation - vent
+therm vacuum - shaft
+therm pressure - shunt
+therm battery - cell
+therm stopcap - bung
+therm burner - bunsen
+therm moisture - humidity
+
+codex silence - mute
+codex only - solo
+codex statute - script
+codex ruling - safety
+codex troubleshooting - debug
+codex personality - profile
+codex solving - debunk
+codex mythbusting - proof
+codex health - status
+codex repetition - chase
+codex flyover - airshow
+codex pilot - lexer
+
+synch simple - cinch
+synch checkpoint - save
+synch breakpoint - check
+synch tension - load
+synch approval - verify
+synch contemporary - temp
+synch encoding - timestamp
+synch crossreference - validate
+synch decoding - extraction
+synch indirection - steps
+synch synchrotron - meeting
+synch pattern - trend
+
+epoch spoch - startpoint
+epoch epoch - endpoint
+epoch modulus - wrapping
+epoch modulo - ramping
+epoch epoxy - glue
+epoch resin - perspective
+epoch sync - synchronisation
+epoch meridian - citylink
+epoch metroplex - trainstation
+epoch googleplex - googolgears
+epoch articulate - gomboc
+epoch eliptical - lenticular
+
+cloud reticulation - spline
+cloud virtualisation - cluster
+cloud supervisor - hypervisor
+cloud renderfarm - backburner
+cloud janitor - servitor
+cloud investigator - inquisitor
+cloud curve - bezier
+cloud quadrature - quad
+cloud impulse - biquad
+cloud request - quest
+cloud response - sponsor
+cloud speed - reflex
+cloud throughput - buffering
+
+range arrival - veni
+range outlook - vidi
+range vicinity - vici
+range grapevine - vini
+range rumour - gossip
+range roaming - gloss
+range strength - signal
+range variance - noise
+range heavyweight - sumo
+range finder - sonic
+range sensor - ultra
+range actuator - infra
+
+guild toolchain - tools
+guild selection - menu
+guild template - griddle
+guild question - query
+guild answers - feedback
+guild warnings - issue
+guild tracking - version
+guild boilerplate - skeleton
+guild display - monitor
+guild output - port
+guild artifact - error
+guild software - stack
+
+extra auxiliary - aux
+extra peripheral - mod
+extra paraphernalia - stuff
+extra memorabelia - meme
+extra objects - things
+extra medium - ghost
+extra operator - robot
+extra matrix - movie
+extra trains - tube
+extra blockbuster - netflix
+extra illusion - mirage
+extra collective - pool
+
+multi sensory - sense
+multi sanctuary - homebase
+multi platform - cross
+multi catenary - codebase
+multi styroidal - factor
+multi positional - omni
+multi rotational - axial
+multi scalar - maps
+multi vector - roads
+multi tensor - barriers
+multi pathway - roadmaps
+multi modal - methods
+
+modal messagebox - dialog
+modal spontaneity - spark
+modal questioning - prompt
+modal thinking - pause
+modal permission - okay
+modal cancellation - cancel
+modal rejection - abort
+modal approval - yes
+modal denial - no
+modal confusion - maybe
+modal continuity - pass
+modal pictogram - icon
+
+... import code ... dir(code) ...
