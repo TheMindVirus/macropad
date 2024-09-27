@@ -1,0 +1,47 @@
+[names of computer body parts from ancient civilisation as organ system engines]
+
+01 radio - heart - soma - muscle - stethoscope - beats/pulses - dec deck player (cue) [deck]
+02 braccio - spine - nec - expo - periscope - pokes/inspects - tub tube corden (way) [wire]
+03 ipod - eye - tunes - retina - telescope - sees/views - len lens camera (cam) [lens]
+04 torque - torso - ball - marble - endoscope - pumps/cerulates - den dene homebase (hut) [cube]
+05 earbuds - ear - piece - phones - hyposcope - extends/retracts - con cone driver (rim) [rift]
+06 swarm - hand - chip - joint - gyroscope - gyrates/rotates - tap tape drive (arm) [tape]
+07 lego - leg - brick - truss - styroscope - sticks/supports - esc desk stand (leg) [edge]
+08 nasa - nose - naval - rocket - microscope - peers/tunnels - nas nasa stick (bud) [hole]
+09 annex - lungs - air - chamber - helioscope - expands/contracts - fil file script (pit) [file]
+10 mawgan - mouth - port - harbour - angioscope - opens/closes - cas case folder (cab) [fold]
+11 wii - hip - remote - girder - kaleidoscope - hits/twists - mic mics mixer (mix) [belt]
+12 matrox - head - hydra - bottle - oscilloscope - shakes/wobbles - pos post processor (cop) [post]
+"what is this" - this is the anatomy of a human being split into a number of parts much like a building
+
+[post_office_conundrum]: proof of concept
+cube - services the package - "who has the answer" - 04 - 10 - Service/Question
+fold - contains the package - "i hold the answer" - 10 - 04 - Answer/Acknowledge
+file - stores the package - "the answer is this" - 09 - 01 - Call/Please
+wire - moves the package - "tell me the answer" - 02 - 11 - Respond/Reply
+post - sorts the package - "the answer is complex" - 12 - 02 - Emergency/Accident
+tape - logs the package - "answer is complex noted" - 06 - 06 - Detected/Sighted
+belt - stages the package - "there is the answer" - 11 - 12 - Start/Finish
+lens - seeks the package - "where is the answer - 03 - 05 - Search/Query
+deck - carries the package - "i have the answer" - 01 - 03 - Suspect/Target
+edge - stamps the package - "i approve the answer" - 07 - 08 - Solve/Mystery
+hole - drops the package - "i forgot the answer" - 08 - 09 - Something/Dark
+rift - unwraps the package - "i remember the answer" - 05 - 07 - Soon/Side
+"what was the answer" - this is the packaging center's logistics department chipset on a daily basis
+
+[superintendent_vergil's_sentinel_carilien]: the engineer's support call
+hut is derelict and abandoned - sentinel building is derlict and abandoned
+cue turns on the lights - toggle switch turns on the lights
+cam sees the lights turn on - surveillance camera sees the lights turn on
+cop enters the building - detective inspector enters the building
+bud senses something off - reflex instinct senses something off
+mix is sending mixed signals - inner sanctum is sending mixed signals
+rim rings with some feedback - radio signal rings with some feedback
+way tightens in distress - cribbs causeway tightens in distress
+pit shuts down and panics - chamber lock shuts down and panics
+cab opens and shuts the case - bureau secretary opens and shuts the case
+arm writes some written notes - personal assistant writes some written notes
+leg ran away from the scene a long time ago - field crew ran away from the scene a long time ago
+"there was no one there" - all of the crew were robot ghosts with neural implants to enhance their persona
+
+[please proceed to the chamber lock to begin the next test]
