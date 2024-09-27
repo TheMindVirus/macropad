@@ -1,0 +1,175 @@
+[Enna City, Sicily - Italy The Man]: Twinned with Oscar, Frank, Emma and Portugal
+@ 23:01 27/09/2024
+.................................................................................
+
+[Cerulean Orden Unit]: Central Regulator Chip (CRC)
+[Endollators]: Cerile Pump Organs (Google) [GOG]
+Sade - Pilot Seat - Visionary Center
+Valve - Runner Shack - Constabulary Center
+Heart - Arcade Den - Pulmonary Center
+Lungs - Mall Shop - Vestibulary Center
+Stomach - Gastro Pub - Cuisinary Center
+Intestine - Water Convenience - Sanitary Center
+"...Kernels?"
+
+[Watchdog Orden Unit]: Defence Recovery Sentinel (DRS)
+[Perillators]: Pyrovile Danger Organs (Akamai) [CDN]
+Brain - Inner/Outer Cortex - Officebuilding
+Stem - Medial/Medical Dantex - Polytechnic
+Spine - Harmony/Discord Flex - Postaldepot
+Nerve - Grand/Central Annex - Radiobooth
+Synapse - Nemesis/Sienar Sistex - Powerstation
+Diskette - Elgato/Elegant Kintex - Breadbakery
+"...Sirens?"
+
+[Sensory Orden Unit]: Signal Ordnance System (SOS)
+[Hypollators]: Tactile Sensory Organs (Twitch) [DVB]
+Skin - Dermis - Dermatitis - Dermal Burn Clinic
+Eyes - Pectis - Pectatitis - Pectal Burn Clinic
+Ears - Cousis - Cousatisis - Cousal Burn Clinic
+Nose - Narcis - Narcatisis - Narcal Burn Clinic
+Mouth - Mawgis - Mawgatisis - Mawgal Burn Clinic
+Tongue - Tannis - Tannatisis - Tannal Burn Clinic
+"...Sensors?"
+
+[Broadcast Orden Unit]: Statistical Mathematical Coprocessor (SMC)
+[Oscillators]: Motile Servo Organs (Azure) [NET]
+Head - Post Production - Broadcast Orden
+Body - Treasury Chest - Community Guild
+Hand - Main Course - Restaurant Bar
+Foot - Pedalo Boat - Harbour Port
+Arms - Tree Branch - Hotel Lobby
+Legs - Horizon Line - Watch Tower
+"...Synthesizers?"
+
+[Graphics Orden Unit]: Graphics Accelerator Card (GAC)
+[Angillators]: Ductile Tube Organs (YouTube) [YTD]
+Hind - Back - South - Southend
+Gland - Ground - Down - Downton
+Alveole - Right - East - Eastend
+Vesicle - Height - Up - Upton
+Frontal - Forward - North - Northend
+Sphincter - Left - West - Westend
+"...Graphics Cards?"
+
+[Mixer Orden Unit]: Infrastructural Routing Matrix (IRM)
+[Kamillators]: Dentile Enamel Organs (Meta) [WWW]
+Nail - Bite - Salon - Saloon - Driver
+Tooth - Dent - Dacta - Doctor - Editor
+Tendon - Rend - Blend - Render - Bender
+Elastin - Tint - Stint - Sprint - Runner
+Collagen - Lock - Press - Kernel - Kerner
+Cartilage - Cart - Ledge - Garage - Setter
+"...Festival Mixers?"
+
+[Database Orden Unit]: Memory Controller Unity (MCU)
+[Carillators]: Gentile Janitor Organs (GitHub) [OOP]
+Hair - Pole Climbers - Telegraph Poles
+Lymph - Defence Ministers - Perimeter Walls
+Liver - Factory Workers - Power Tools
+Kidney - Waste Managers - Fluid Canals
+Spleen - Game Developers - Precision Apps
+Pancreas - Auto Engineers - Space Stations
+"...Internet Cloud Servers?"
+
+[Jackbox Orden Unit]: Practicality Hypervisor Dendron (PHD)
+[Vesillators]: Vestile Joint Organs (Arduino) [INO]
+Marrow - Bones - Oblong Skyscraper
+Tissue - Sponge - Comfy Skyscraper
+Plasma - Blood - Long Skyscraper
+Bladder - Gall - Tall Skyscraper
+Phalange - Flange - Ribbed Skyscraper
+Appendix - Rect - Rectangle Skyscraper
+"...High-Voltage Ventillator Racks?"
+
+.................................................................................
+
+[_OSI]: Traditional Extreme Edge Approach
+1 - Start with Raw Electronics (Physical Layer)
+2 - Use Object Oriented Programming (Data Link Layer)
+3 - Build a Web Browser (Network Layer)
+4 - Add in Better Graphics (Transport Layer)
+5 - Customise the Broadcast Logic (Session Layer)
+6 - Relay the Results Formally (Presentation Layer)
+7 - Test for Potential Naturally Occurring Realtime Issues (Application Layer)
+8 - Maintain Cross Platform Compatibility (Interoperability Layer)
+
+[_ONI]: Futuristic General Cloud Approach
+1 - Start with Pure Logic that contains a Fully Abstract metropolitan application system (Pure CRC Logic) - "Solid?" "does this thing work?"
+2 - Make a Perimeter Net around the Node Blob of the Fully Abstract chiplet (Perimeter DRS Net) - "State?" "yes because it does this when that happens"
+3 - Decide which Signal Wire should be able to transfer through the Perimeter Net (Signal SOS Wire) - "Trace?" "i can prove it by monitoring the output"
+4 - Contain the Transistor Chip and repeat steps 1->3 for each Abstracted Chiplet (Transistor SMC Chip) - "Radio?" "and it doesn't interfere with other devices"
+5 - Draw on Link Cables between certain Signal Wires to form addressable Bus Fabric (Link GAC Cables) - "Patch?" "i'm going to lay it out like this"
+6 - Connect parts of the Bus Fabric to other parts with styroids to fulfill system requirements (Bus IRM Fabric) - "Strap?" "what have you made?"
+7 - Write a simple Unit Test for the Super Chip you have just created to test for full functionality (Unit MCU Test) - "Coast?" "a microcontroller unit"
+8 - Conjure the Integration Sample testbed motherboard Super Carrier that will extend the mezzanine Super Chip (Integration PHD Sample) - "Shake?" "well done :D"
+
+DMX State Recall:
+* A safety measure used to hold a temporary automation state while switching over console equipment
+* Works with DMX512 RS485 Compatible Systems by utilising the usually resistor terminated RDM channel
+* DMX is Digital MultiPlex and RDM is Remote Device Management where one calls out and the other responds
+* The RDM response is often unstable for use in live production and is switched off most of the time
+* Once it works it would be able to parity check whether outgoing data bytes are the same as incoming
+* If there is a difference between outgoing data and incoming data then the line may need repairing
+* Also may work with other Recommended Standards that require an additional return duplex or triplex
+* Signal carried over 3-Pin XLR and originally twice over on 5-Pin XLR with some opting for 8-Pin DIN
+
+Emergency Response Call:
+04 - 10 - Mouth where Body should be - Care Full - Speak Before Acting
+10 - 04 - Body where Mouth should be - Care Less - Act Before Speaking
+09 - 01 - Heart where Lungs should be - Call Out - Pump-it Louder Double-Time
+02 - 11 - Hips where Spine should be - Outside In - Extra Terrestrial Communication
+12 - 02 - Spine where Head should be - Reflex Instinct - Something Strange Happened
+06 - 06 - Hand where Hand should be - Hand Held - See-it Say-it Sort-it
+11 - 12 - Head where Hips should be - Call Reset - From The Top
+03 - 05 - Ears where Eyes should be - Look Out - Ears Wide Open
+01 - 03 - Eyes where Heart should be - Big Mood - Eyes Wide Shut
+07 - 08 - Nose where Leg should be - Upside Down - Inverted Sleep Pattern
+08 - 09 - Lungs where Nose should be - Heavy Breathing - Forced Respiration Exorcism
+05 - 07 - Leg where Ears should be - Inside Out - Hard Of Hearing
+
+.................................................................................
+
+[Introverted Neurovocal Call Sequence]:
+Torso - Creak
+Mouth - Youch
+Lungs - Where
+Spine - Twang
+Heads - Flops
+Hands - Tract
+Waist - Bends
+Optic - Shock
+Heart - Skips
+Stand - Drops
+Nasal - Sniff
+Audit - Rings
+
+[Traditional Neurovocal Call Sequence]:
+Torso - "I've detected a problem but I don't know where it is."
+Mouth - "I know what the problem is but I can't say what it is without taking a breath first."
+Lungs - "I can take a breath, what do you want me to take a breath for?"
+Spine - "I think it's because the mouth has something to say but can't say it until you breathe first."
+Heads - "I see now that there's a problem with some of my limbs but I'm not sure how to put it into words."
+Hands - "I can point to the problem if I know where it is but no one will tell me where to look first."
+Waist - "I can ring the torso to echolocate the problem, if you would just give me a second."
+Optic - "I can't see what the problem is physically, I have to rely on the meridian sense to locate it."
+Heart - "I can start beating out a resonant rhythm to check if the problem is critical or not."
+Stand - "I may not be able to hold support up for much longer if there is a problem."
+Nasal - "I can detect presence of a faint toxin which is gaseous and airborne if it is either present or virtual."
+Audit - "I can correct the problem live by tuning the system and hearing back a response from it."
+
+[Extroverted Neurovocal Call Sequence]:
+Torso - "What seems to be the problem?" - [DARE]
+Mouth - "Uh...is this it?" - [BUCK]
+Lungs - "Hah, yeah that might be what the problem is." - [DARE]
+Spine - "Ok...well...what am I supposed to do about it?" - [BUCK]
+Heads - "Hmm...I'm not so sure..." - [DARE]
+Hands - "Look, I don't mean to beg but...Please give me a hand <nickname>, I need this to work..." - [BUCK]
+Waist - "Hold on one sec, I'll get back to you..." - [DARE]
+Optic - "What does the manual say, this must occur quite often..." - [BUCK]X[DARE]
+Heart - "Oh...scary...Yeah, I can see why that would be a problem." - [DARE]X[BUCK]
+Stand - "...would using this thing be of any help?" - [BUCK]
+Nasal - "Hmm...I don't see any issues now, whatever you just did seemed to work." - [DARE]
+Audit - "Ah! OK! Good! Problem Solved!...or at least, diagnosed and identified for another time..." - [BUCK]
+
+| 2009 | Advanced Micro Devices Incorporated | Equinix | Xilinx Combined Precision Integrated | 2077 |
