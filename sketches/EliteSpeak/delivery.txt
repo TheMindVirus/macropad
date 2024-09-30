@@ -1,0 +1,161 @@
+<!DOCTYPE skit>
+
+<blip> sap-hana and siri-ana </blip>
+
+[siri-...]: + ... search ... +
+
+[sap-hana]: - ... siri-ana, search for "mac" ... -
+
+[siri-...]: + ... no search results for ... "mac" ... +
+
+[....]: --._.--
+
+[siri-...]: + ... here are some online search results from ... "ask" ... +
+
+... ma - visionary lighting service specialising in ... "vision pro apps and mac music apps" ...
+... rt - community coding service specialising in ... "sleep patterns and circadian rhythms" ...
+... ee - industry satellite service specialising in ... "solar panels and cell site gateways" ...
+... ds - discovery shuttle service specialising in ... "portable displays and split screen technology" ...
+... lg - sanitary disposal service specialising in ... "the latest trends in saline hand scrub" ...
+
+[....]: --._.--
+
+[sap-....]: - ... uhh, pick ... -
+[...-hana]: - ... that one ... -
+
+[....]: --._.--
+
+[sap-....]: - ... we're trying to make a vt ... -
+[...-hana]: - ... what's a ... "vt" ... -
+
+[....]: --._.--
+
+[spark]: + ... i think you're looking for a ... "keynote" ... +
+[clank]: + ... we have lots of results for ... "keynote" ... +
+
+[....]: --._.--
+
+[sap-....]: - ... couriers ... drivers ... editors ... testers ... riders ... -
+[sap-....]: - ... pilots ... miners ... surfers ... hunters ... adventurers ... -
+
+[....]: --._.--
+
+[orden]: + ... attention! ... "castrol" has just evolved into ... "niantic" ... +
+[ghost]: + ... -_- ... ._. ... "." ... ¯\_(ツ)_/¯ ... "." ... ._. ... -_- ... +
+
+[....]: --._.--
+
+[sap-....]: - ... exactly, continue ... #bias ... -
+[sap-....]: - ... no, something seems off ... no, something's too much ... -
+
+[....]: --._.--
+
+[sap-....]: - ... electro static resistance attenuation ... -
+[....-ana]: + ... "unchanged" ... +
+
+[....]: --._.--
+
+[sap-....]: - ... electro static capacitance indirection ... -
+[....-ana]: + ... "unchanged" ... +
+
+[....]: --._.--
+
+[sap-....]: - ... electro static inductance accumulation ... -
+[....-ana]: + ... "unchanged" ... +
+
+[....]: --._.--
+
+[sap-....]: - ... packet optical laser convergence ... -
+[....-ana]: + ... "unchanged" ... +
+
+[....]: --._.--
+
+[sap-....]: - ... packet optical laser interference ... -
+[....-ana]: + ... "unchanged" ... +
+
+[....]: --._.--
+
+[sap-....]: - ... packet optical laser coherence ... -
+[....-ana]: + ... "unchanged" ... +
+
+[....]: --._.--
+
+[sap-....]: - ... transfer reduction surface cohesion ... -
+[....-ana]: + ... "unchanged" ... +
+
+[....]: --._.--
+
+[sap-....]: - ... transfer reduction surface adhesion ... -
+[....-ana]: + ... "unchanged" ... +
+
+[....]: --._.--
+
+[sap-....]: - ... transfer reduction surface tension ... -
+[....-ana]: + ... "unchanged" ... +
+
+[....]: --._.--
+
+[sap-....]: - ... all set ? ... -
+[sap-....]: - ... we're good to go ... -
+
+[....]: --._.--
+
+[sap-....]: - ... launching in ... 5 ... 4 ... 3 ... 2 ... -
+[...-hana]: - ... veto ! veto ! veto ! ... -
+
+[....]: --._.--
+
+[sap-....]: - ... o_o ... what is it ? ... -
+[...-hana]: - ... i left my chewing gum in the airlock ... -
+
+[....]: --._.--
+
+[sap-....]: - ... x_x ... ok, go get your chewing gum from the airlock ... -
+[...-hana]: - ... ok back ... -
+
+[....]: --._.--
+
+[sap-....]: - ... ok now ? ... -
+[...-hana]: - ... nyan ... -
+
+[....]: --._.--
+
+[sap-....]: - ... ok ... launching in ... 5 ... 4 ... -
+[...-hana]: - ... veto ! veto ! veto ! ... -
+
+[....]: --._.--
+
+[sap-....]: - ... o_o ... what is it now ? ... -
+[...-hana]: - ... i really need the toilet ... -
+
+[....]: --._.--
+
+[sap-....]: - ... x_x ... ok, go quickly, we need to launch soon ... -
+[...-hana]: - ... ok back again ... -
+
+[....]: --._.--
+
+[sap-....]: - ... strapped in ? ... -
+[...-hana]: - ... nyan nyan ... -
+
+[....]: --._.--
+
+[sap-....]: - ... launching in ... 5 ... -
+[...-hana]: - ... veto ! veto ! veto ! ... -
+
+[....]: --._.--
+
+[sap-....]: - ... o_o ... what ? ... -
+[...-hana]: - ... i need the toilet again ... -
+
+[....]: --._.--
+
+- audio video bridge cast -
+
+[haribo]: "kids and grown-ups love it so - the happy world of haribo"
+
+[amiibo]: "grab a character & get awesome in-game extras!"
+
+[medium]: "human stories & ideas, a place to read, write, and deepen your understanding"
+
+| haribo | amiibo | medium | 2024 |
