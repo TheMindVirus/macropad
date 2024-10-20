@@ -1,0 +1,89 @@
+aesthetic: paperwhite ascii
+
+-----------------------------------------------------------------------------------------------------
+
+      ////////////////////////////////////////////////////////////////////////////
+     //                                                                        //
+    //  ////// ////// ////// ////// ////// //////   //// ////// //////   //// //
+   //    //   //  //   //   //       //   //  //   //     //   //       //   //
+  //  ////// //  //   //   //     ////// //  // ////   ////// ////// ////   //
+ //                                                                        //
+////////////////////////////////////////////////////////////////////////////
+
+-----------------------------------------------------------------------------------------------------
+
+[organ_system_intrinsic_operations]: machine processes derived from terrestrial lifeforms
+[miscellaneous_machine_instructions]: machine processes that are not biologically derived
+[fujitsu_fm_r50_towns_os_origins]: machine processes that exist within development of popular culture
+[sega_genesis_hazardous_resonance]: machine processes that were extracted from quantising random numbers
+
+-----------------------------------------------------------------------------------------------------
+
+[organ_system_intrinsic_operations]: machine processes derived from terrestrial lifeforms
+* cate - organisms have musculoskeletal systems - machines replicate this by material states and sturdy chassis
+* circ - organisms have cardiovascular systems - machines replicate this by circulating charge and packet waves
+* chan - organisms have neurological systems - machines replicate this by channelling bitstreams and board traces
+* vent - organisms have respiratory systems - machines replicate this by air ventillation and water cooling
+* stat - organisms have cyclostatic systems - machines replicate this by thermal regulation and fan control
+* cond - organisms have lymphatic systems - machines replicate this by styrofoam packaging and conduit funnelling
+(organisms have a lot of components that were inherited by machines for good reasons)
+
+[miscellaneous_machine_instructions]: machine processes that are not biologically derived
+* xeno - organisms lack xenoarcheological systems - machines are made more precise by externally calibrated sensors
+* neto - organisms lack magnetoquantum systems - machines are made more precise by magnetic quantisation pads
+* opto - organisms lack opticoneural systems - machines are made more precise by light emitting diodes
+* telo - organisms lack exotelemetry systems - machines are made more precise by streaming televisual content
+* roto - organisms lack servometric systems - machines are made more precise by rotary measurement cards
+* sumo - organisms lack hydraulic systems - machines are made more precise by fluidic compression tubes
+(machines do not inherit solely from biological organisms for anti-hazardous reasons)
+
+[fujitsu_fm_r50_towns_os_origins]: machine processes that exist within development of popular culture
+* blit - a common favourite operation amongst visual graphics enthusiasts for outputting multiple pixels
+* slit - a common favourite operation amongst doctoral physicist enthusiasts for simulating radiation conditions
+* skit - a common favourite operation amongst production studio enthusiasts for summarising situational awareness
+* skim - a common favourite operation amongst verbal reasoning enthusiasts for reading dense information
+* shim - a common favourite operation amongst operating systems enthusiasts for identifying missing structures
+* whim - a common favourite operation amongst playwrite scripting enthusiasts for generating innovative content
+(fujitsu likes to listen to what their target audience wants to do with their machine and takes it into account)
+
+[sega_genesis_hazardous_resonance]: machine processes that were extracted from quantising random numbers
+* "nn" - (neuronal) network - correctly applied to telecommunications infrastructure, incorrectly applied to harmful equivocal impersonation
+* "ai" - artificial (insanity) - correctly applied to virtual character control, incorrectly applied to sensitive communication disruption
+* "cm" - (computational) module - correctly applied to coprocessor accelerator cards, incorrectly applied to autorouted circuit complication
+* "ml" - machine (learnt) - correctly applied to flexible musical instrument controllers, incorrectly applied to illegal data mining
+* "oa" - (operating) automation - correctly applied to industrial factory power tools, incorrectly applied to shortcut economic trading
+* "fd" - (fluid) dynamics - correctly applied to stress relief water animation, incorrectly applied to numeric identity hashing
+(sega originally had no sense of direction and started generating machinery in all the wrong ways on purpose to make points incorrectly)
+
+-----------------------------------------------------------------------------------------------------
+
+[organ_system_intrinsic_operations]: machine processes derived from terrestrial lifeforms
+[miscellaneous_machine_instructions]: machine processes that are not biologically derived
+[fujitsu_fm_r50_towns_os_origins]: machine processes that exist within development of popular culture
+[sega_genesis_hazardous_resonance]: machine processes that were extracted from quantising random numbers
+
+[google_translation_matrix_greek]: "translate origdala instead of thalamus"
+ορχιδέες οριγδαλα (?) - orchids orchids (?!)
+όσιρις                - osiris
+αμυγδαλα              - almonds ("amigdala")
+οριγδαλα              - orchids
+θάλαμος               - chamber ("thalamus")
+
+amigin - the other point that isn't the origin in the distance vector calculation
+
+[fm_towns_light_graphics_specification]: SEGA MAME GRAPHICS ["WE HATE VBA"]
+* [_BUF]: 256x240 (256c | 32,768 Palette)
+* [_RAM]: 128K (8K Attrib | 120K Pattern)
+* [_REZ]: 16x16 (16c xSprite | 1024 Clip)
+* [_BMP]: 640x480 ** (24b-RGB | 32b-RGBA)
+(* On-Board 6-Channel Yamaha-FM Sound Chip)
+(** Resolutions between 300x200 and 720x512)
+(IBM-HAL-ATI: ~M68000 ~MOS6502 ~MC6809 +AMD8085A +Motorola +Xilinx)
+(known labels: "blit", "mode", "FORTH", "F-BASIC", "NAMELESS ALGORITHM", "SEGA", "MAME", "birb", "blur")
+(known systems: "XM7", "SE20", "TOWNS-II", "ARM-MARTY", "RICOH-MAME", "AMD-MEGA", "INTEL-80386", "NINTENDO-WII", "FM-TOWNS")
+(known intrinsics: "READY", "WIDTH", "HEIGHT", "LOAD", "RUN", "?SET", "?INPUT", "?STREAM", ...)
+(known assembly: "mov", "add", "sub", "lda/sta/lds/sts", "add/mul/sub/div", "b/b.x/jmp/call", "in/out/xy/scratch", "ssr/ssl/asr/shift", "ret/eret/iret/return", ...)
+(Apple removes support for Adobe purchases after it is found that there is physical evidence of oppression and tampering caused solely by their military division)
+
+|[1970]| SEGA MAME | Fujitsu | FM Towns OS | Nintendo Museum Direct |[2024]|
+|| Nintendo Of America | Nintendo Before Nintendo | Nintendo Before Mario ||
