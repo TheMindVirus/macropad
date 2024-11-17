@@ -100,3 +100,5 @@ Code done running.
 
 Press any key to enter the REPL. Use CTRL-D to reload.
 ```
+
+![screenshot](https://github.com/themindvirus/macropad/blob/archive/sketches/SquishyMod/gridlock.png)
