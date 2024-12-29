@@ -65,7 +65,7 @@ def layer_it(n = 26, p = 10652200): #!!!CAUTION!!! prone to model overfitting #
     a = [0] * n
     b = [0] * n
     c = [0] * n
-    # the inference will need to select the lease wrong answer #
+    # the inference engine will need to select the least wrong answer #
     a = [1 if (x % 3) < 2 else 0 for x in range(0, len(a))]
     b = [1 if (y % 6) < 4 else 0 for y in range(0, len(b))]
     c = [1 - b[z] if (p >> (n - z - 1)) & 1 else b[z] for z in range(0, len(c))]
